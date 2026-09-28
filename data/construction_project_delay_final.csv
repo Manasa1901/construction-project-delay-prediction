@@ -1,0 +1,1001 @@
+Project_ID,Project_Category,Project_Size,Budget,Workforce,Material_Delivery,Weather,Contractor,Milestone,Planned_Progress,Actual_Progress,Progress_Delay,Delay_Status,Material_Delay_Group,Early_Warning_Count,Delay_Severity,Workforce_Group,Risk_Level
+P0001,Commercial,20991,681.67,181,9,Moderate,Contractor_B,Foundation,57.46,35.11,22.35,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0002,Infrastructure,1841,39.66,235,14,Good,Contractor_A,Electrical,88.64,68.77,19.870000000000005,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0003,Industrial,45123,1526.07,283,14,Moderate,Contractor_E,Roofing,47.39,13.37,34.02,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0004,Industrial,25291,505.27,282,7,Poor,Contractor_A,Structure,41.33,20.74,20.59,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0005,Residential,838,26.73,293,6,Good,Contractor_D,Foundation,98.79,100.0,-1.2099999999999937,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0006,Residential,6395,156.49,22,9,Moderate,Contractor_A,Roofing,92.89,71.0,21.89,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0007,Residential,12754,419.93,47,12,Moderate,Contractor_A,Structure,22.32,0.0,22.32,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0008,Infrastructure,11844,387.97,168,13,Good,Contractor_D,Foundation,81.66,61.36,20.299999999999997,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0009,Industrial,2250,71.33,47,9,Moderate,Contractor_B,Finishing,28.83,5.1,23.729999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0010,Industrial,2921,91.81,84,11,Good,Contractor_E,Roofing,22.2,7.75,14.45,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0011,Residential,40387,936.15,40,5,Good,Contractor_C,Foundation,41.9,27.91,13.989999999999998,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0012,Infrastructure,5819,112.75,271,10,Moderate,Contractor_B,Structure,41.55,21.62,19.929999999999996,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0013,Infrastructure,16396,407.45,254,8,Moderate,Contractor_A,Structure,85.55,68.67,16.879999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0014,Residential,12418,260.16,246,9,Poor,Contractor_C,Finishing,76.85,48.66,28.189999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0015,Residential,25564,762.17,32,6,Good,Contractor_D,Roofing,98.53,81.58,16.950000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0016,Residential,47117,1125.33,68,6,Good,Contractor_B,Roofing,76.92,65.02,11.900000000000006,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0017,Commercial,28435,983.44,137,11,Good,Contractor_E,Foundation,53.46,41.97,11.490000000000002,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0018,Industrial,38141,1102.14,73,11,Good,Contractor_B,Structure,75.91,48.85,27.059999999999995,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0019,Commercial,30211,966.21,157,7,Good,Contractor_B,Structure,99.96,79.55,20.409999999999997,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0020,Commercial,5306,107.46,72,9,Good,Contractor_C,Finishing,76.81,50.75,26.060000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0021,Industrial,41860,1366.91,63,4,Good,Contractor_D,Finishing,80.93,66.87,14.060000000000002,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0022,Residential,12682,427.22,72,13,Good,Contractor_D,Roofing,95.07,80.11,14.959999999999994,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0023,Commercial,22797,599.11,93,5,Good,Contractor_B,Structure,29.09,28.42,0.6699999999999982,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0024,Commercial,20041,567.29,65,5,Poor,Contractor_D,Foundation,76.38,55.22,21.159999999999997,Delayed,Low (0-5 days),2,Severe Delay,Medium,High Risk
+P0025,Commercial,29421,912.1,32,7,Moderate,Contractor_C,Electrical,88.06,65.79,22.269999999999996,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0026,Infrastructure,17274,362.27,184,8,Good,Contractor_C,Foundation,96.35,84.83,11.519999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0027,Residential,45313,1202.77,121,6,Poor,Contractor_E,Finishing,36.88,14.91,21.970000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0028,Industrial,37698,934.05,299,11,Moderate,Contractor_D,Foundation,60.31,45.77,14.54,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0029,Industrial,9320,190.95,277,8,Poor,Contractor_E,Structure,74.44,42.4,32.04,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0030,Residential,24570,595.78,157,10,Good,Contractor_A,Roofing,39.8,17.27,22.529999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0031,Industrial,4732,90.66,182,5,Good,Contractor_C,Electrical,68.04,67.1,0.9400000000000119,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0032,Residential,11622,214.3,130,7,Poor,Contractor_B,Roofing,40.61,27.42,13.189999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0033,Residential,15523,315.08,121,6,Good,Contractor_C,Electrical,46.68,38.13,8.549999999999997,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0034,Infrastructure,8507,292.41,36,7,Poor,Contractor_A,Electrical,55.32,19.79,35.53,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0035,Infrastructure,18405,503.23,287,8,Moderate,Contractor_B,Structure,62.34,45.5,16.840000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0036,Infrastructure,42286,1455.44,201,11,Poor,Contractor_D,Structure,55.95,26.15,29.800000000000004,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0037,Commercial,29898,757.99,43,9,Good,Contractor_D,Finishing,59.46,42.0,17.46,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0038,Residential,34768,810.12,48,8,Good,Contractor_C,Finishing,43.89,25.4,18.490000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0039,Industrial,7237,192.54,190,7,Good,Contractor_B,Electrical,32.72,17.5,15.219999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0040,Commercial,36562,931.3,247,6,Poor,Contractor_B,Finishing,23.79,0.73,23.06,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0041,Residential,26010,514.9,207,5,Good,Contractor_E,Structure,35.68,25.3,10.379999999999999,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0042,Commercial,19926,575.74,249,9,Moderate,Contractor_A,Finishing,66.56,56.38,10.18,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0043,Residential,37765,818.47,138,6,Good,Contractor_D,Electrical,82.89,63.2,19.689999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0044,Infrastructure,18350,523.58,175,5,Good,Contractor_C,Roofing,33.54,34.3,-0.759999999999998,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0045,Commercial,1114,32.37,291,3,Good,Contractor_B,Foundation,28.68,23.4,5.280000000000001,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0046,Industrial,22276,458.54,194,11,Good,Contractor_D,Finishing,79.94,64.19,15.75,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0047,Commercial,24577,468.02,123,8,Moderate,Contractor_C,Structure,44.41,27.94,16.469999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0048,Industrial,9874,308.79,111,9,Good,Contractor_D,Roofing,96.12,77.55,18.570000000000007,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0049,Industrial,35935,927.72,205,7,Poor,Contractor_C,Structure,77.15,58.19,18.960000000000008,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0050,Residential,31407,596.38,200,5,Moderate,Contractor_D,Finishing,46.14,35.8,10.340000000000003,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0051,Infrastructure,13909,485.6,189,9,Moderate,Contractor_E,Electrical,43.16,30.39,12.769999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0052,Infrastructure,17014,322.96,206,7,Moderate,Contractor_A,Foundation,61.9,40.79,21.11,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0053,Infrastructure,30366,905.38,194,5,Good,Contractor_D,Foundation,26.33,17.5,8.829999999999998,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0054,Infrastructure,3483,120.94,241,9,Good,Contractor_A,Roofing,29.41,12.72,16.689999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0055,Industrial,32205,710.64,252,7,Moderate,Contractor_D,Foundation,34.07,14.51,19.560000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0056,Infrastructure,21162,432.09,181,2,Good,Contractor_B,Electrical,81.98,69.02,12.960000000000008,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0057,Residential,24010,481.73,153,6,Good,Contractor_E,Structure,61.11,43.03,18.08,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0058,Residential,13151,304.52,243,6,Good,Contractor_E,Electrical,20.85,10.23,10.620000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0059,Residential,41498,818.25,172,7,Moderate,Contractor_A,Roofing,73.88,57.59,16.289999999999992,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0060,Commercial,29035,864.28,52,10,Good,Contractor_B,Roofing,53.9,36.12,17.78,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0061,Commercial,7140,136.08,74,13,Good,Contractor_C,Foundation,60.87,33.97,26.9,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0062,Commercial,45047,1200.96,26,8,Good,Contractor_E,Electrical,37.13,14.07,23.060000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0063,Infrastructure,15817,552.71,263,6,Poor,Contractor_B,Structure,64.14,46.79,17.35,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0064,Commercial,8064,256.74,145,10,Good,Contractor_B,Electrical,98.33,79.73,18.599999999999994,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0065,Commercial,27845,792.43,31,10,Moderate,Contractor_A,Structure,25.88,0.0,25.88,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0066,Industrial,48788,1132.19,35,6,Moderate,Contractor_B,Structure,42.71,27.52,15.190000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0067,Residential,29187,834.93,227,7,Moderate,Contractor_B,Electrical,39.44,22.99,16.45,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0068,Infrastructure,14237,383.83,62,10,Good,Contractor_C,Finishing,39.88,20.57,19.310000000000002,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0069,Residential,9823,247.97,154,11,Moderate,Contractor_A,Electrical,50.3,28.83,21.47,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0070,Infrastructure,15729,318.07,247,10,Good,Contractor_A,Structure,85.45,75.21,10.240000000000009,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0071,Infrastructure,44981,1487.62,130,5,Good,Contractor_B,Roofing,93.03,94.66,-1.6299999999999955,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0072,Residential,9002,230.87,179,8,Moderate,Contractor_C,Roofing,36.18,22.96,13.219999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0073,Residential,1045,22.27,283,18,Moderate,Contractor_D,Foundation,63.44,35.92,27.519999999999996,Delayed,Very High (16+ days),1,Severe Delay,Very High,Medium Risk
+P0074,Infrastructure,37614,912.21,244,7,Moderate,Contractor_E,Roofing,70.95,53.68,17.270000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0075,Industrial,29930,749.45,236,5,Poor,Contractor_A,Finishing,61.75,40.4,21.35,Delayed,Low (0-5 days),1,Severe Delay,Very High,Medium Risk
+P0076,Industrial,10496,336.59,64,2,Good,Contractor_C,Structure,54.73,45.69,9.04,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0077,Infrastructure,28288,861.98,233,8,Poor,Contractor_C,Electrical,35.36,18.34,17.02,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0078,Residential,30469,946.92,78,6,Good,Contractor_B,Electrical,59.06,52.3,6.760000000000005,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0079,Commercial,49043,891.97,151,5,Moderate,Contractor_E,Finishing,52.1,42.68,9.420000000000002,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0080,Residential,14419,361.55,123,4,Good,Contractor_A,Roofing,83.65,77.53,6.1200000000000045,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0081,Infrastructure,4310,112.85,214,10,Good,Contractor_D,Structure,81.09,67.77,13.320000000000007,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0082,Industrial,31086,569.69,176,9,Good,Contractor_B,Roofing,30.72,15.67,15.049999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0083,Commercial,40474,907.3,117,10,Good,Contractor_A,Foundation,27.08,6.96,20.119999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0084,Residential,42273,1307.29,245,6,Good,Contractor_A,Roofing,92.65,88.65,4.0,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0085,Commercial,16871,343.0,224,5,Good,Contractor_C,Foundation,62.84,60.15,2.690000000000005,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0086,Commercial,45584,1235.34,98,8,Good,Contractor_E,Electrical,88.62,74.18,14.439999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0087,Industrial,30129,652.55,143,7,Moderate,Contractor_D,Structure,24.65,9.56,15.089999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0088,Industrial,8936,162.69,237,4,Good,Contractor_E,Foundation,62.12,52.4,9.719999999999999,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0089,Infrastructure,13484,298.0,23,8,Good,Contractor_C,Roofing,63.15,43.35,19.799999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0090,Commercial,33539,1160.11,109,4,Good,Contractor_D,Roofing,88.86,73.28,15.579999999999998,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0091,Residential,20395,645.01,123,8,Good,Contractor_D,Electrical,27.81,23.75,4.059999999999999,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0092,Industrial,18655,640.11,138,6,Moderate,Contractor_B,Finishing,39.24,21.04,18.200000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0093,Infrastructure,11116,292.28,152,15,Poor,Contractor_D,Finishing,52.52,17.02,35.5,Delayed,High (11-15 days),2,Severe Delay,High,High Risk
+P0094,Industrial,37629,747.52,115,5,Good,Contractor_A,Roofing,89.27,88.39,0.8799999999999955,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0095,Infrastructure,40337,1101.82,162,6,Moderate,Contractor_E,Finishing,95.11,91.45,3.6599999999999966,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0096,Commercial,25074,645.01,47,5,Moderate,Contractor_E,Structure,99.42,86.71,12.710000000000008,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0097,Industrial,3930,127.15,297,5,Good,Contractor_B,Finishing,96.74,83.19,13.549999999999997,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0098,Commercial,13176,259.14,252,9,Moderate,Contractor_D,Structure,20.48,0.0,20.48,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0099,Residential,11316,297.61,36,9,Good,Contractor_C,Roofing,23.82,4.24,19.58,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0100,Residential,33233,682.97,78,8,Good,Contractor_A,Roofing,31.81,18.26,13.549999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0101,Residential,20644,485.54,109,9,Good,Contractor_B,Roofing,47.91,37.81,10.099999999999994,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0102,Industrial,2550,77.86,218,9,Good,Contractor_D,Electrical,86.39,73.83,12.560000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0103,Commercial,44960,1173.11,45,7,Moderate,Contractor_C,Finishing,91.41,72.28,19.129999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0104,Industrial,34433,839.82,44,7,Good,Contractor_D,Foundation,34.95,9.82,25.130000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0105,Infrastructure,25451,628.79,286,6,Good,Contractor_B,Foundation,69.57,66.75,2.819999999999993,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0106,Residential,32913,849.5,200,7,Good,Contractor_C,Roofing,93.39,80.93,12.459999999999994,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0107,Commercial,35301,1106.52,87,4,Moderate,Contractor_C,Finishing,57.1,34.67,22.43,Delayed,Low (0-5 days),1,Severe Delay,Medium,Medium Risk
+P0108,Infrastructure,33413,1108.16,68,7,Moderate,Contractor_C,Structure,28.28,4.75,23.53,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0109,Residential,47537,1627.7,194,8,Moderate,Contractor_C,Foundation,56.63,45.25,11.380000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0110,Residential,41100,1289.61,71,8,Good,Contractor_D,Roofing,50.06,41.85,8.21,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0111,Commercial,25780,602.27,121,7,Moderate,Contractor_C,Foundation,66.21,49.34,16.86999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0112,Residential,25057,744.15,235,11,Good,Contractor_D,Foundation,55.09,37.84,17.25,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0113,Infrastructure,47554,1209.74,207,5,Good,Contractor_C,Foundation,21.39,7.73,13.66,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0114,Infrastructure,35900,801.63,76,1,Good,Contractor_C,Roofing,99.52,91.76,7.759999999999991,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0115,Industrial,4994,161.28,66,6,Good,Contractor_B,Roofing,63.48,52.58,10.899999999999999,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0116,Infrastructure,15652,291.96,178,9,Moderate,Contractor_D,Electrical,57.89,42.15,15.740000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0117,Infrastructure,24395,813.08,193,5,Poor,Contractor_D,Electrical,96.37,83.4,12.969999999999999,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0118,Residential,9655,249.53,261,8,Moderate,Contractor_E,Electrical,32.47,14.82,17.65,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0119,Infrastructure,32383,933.68,260,10,Good,Contractor_B,Foundation,35.14,27.16,7.98,On Time,Moderate (6-10 days),1,On Time,Very High,Medium Risk
+P0120,Industrial,43694,1276.26,24,12,Good,Contractor_D,Finishing,84.64,54.41,30.230000000000004,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0121,Infrastructure,43501,1444.97,103,5,Good,Contractor_B,Roofing,40.87,29.06,11.809999999999999,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0122,Infrastructure,2328,67.1,267,4,Moderate,Contractor_B,Electrical,83.94,70.15,13.789999999999992,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0123,Commercial,45528,1294.67,73,11,Moderate,Contractor_B,Finishing,41.72,23.07,18.65,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0124,Residential,42398,811.2,180,8,Poor,Contractor_A,Electrical,22.66,0.0,22.66,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0125,Residential,32623,874.72,245,15,Good,Contractor_D,Electrical,61.36,40.81,20.549999999999997,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0126,Commercial,38073,782.51,34,5,Moderate,Contractor_B,Finishing,35.73,15.84,19.889999999999997,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0127,Infrastructure,1306,39.88,243,12,Moderate,Contractor_A,Electrical,80.63,54.99,25.639999999999993,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0128,Infrastructure,41470,1107.57,80,5,Poor,Contractor_A,Foundation,71.3,51.17,20.129999999999995,Delayed,Low (0-5 days),2,Severe Delay,Medium,High Risk
+P0129,Residential,30257,894.51,141,5,Moderate,Contractor_C,Foundation,93.89,83.77,10.120000000000005,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0130,Industrial,35136,657.34,296,10,Moderate,Contractor_C,Foundation,82.64,59.24,23.4,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0131,Commercial,15061,292.81,65,6,Moderate,Contractor_D,Structure,34.46,21.71,12.75,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0132,Residential,48780,1472.06,81,11,Moderate,Contractor_C,Electrical,84.01,63.12,20.890000000000008,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0133,Residential,24762,476.06,105,8,Good,Contractor_D,Structure,71.34,58.11,13.230000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0134,Commercial,15399,295.84,229,7,Good,Contractor_A,Roofing,73.52,58.52,14.999999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0135,Infrastructure,49488,900.97,97,9,Good,Contractor_A,Finishing,86.58,76.08,10.5,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0136,Commercial,16434,563.04,221,13,Good,Contractor_D,Roofing,65.91,37.46,28.449999999999996,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0137,Industrial,38697,1181.72,242,5,Moderate,Contractor_C,Structure,57.28,51.53,5.75,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0138,Industrial,42344,1016.48,241,5,Good,Contractor_C,Foundation,70.93,55.68,15.250000000000007,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0139,Commercial,36832,848.65,22,15,Good,Contractor_D,Electrical,43.84,7.5,36.34,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0140,Infrastructure,34657,829.86,25,4,Good,Contractor_E,Electrical,34.61,28.16,6.449999999999999,On Time,Low (0-5 days),1,On Time,Low,Medium Risk
+P0141,Infrastructure,12093,376.93,112,7,Moderate,Contractor_C,Foundation,69.33,61.35,7.979999999999997,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0142,Commercial,40542,1185.58,27,11,Good,Contractor_B,Electrical,38.71,11.17,27.54,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0143,Commercial,17820,376.86,254,10,Good,Contractor_C,Finishing,26.39,13.28,13.110000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0144,Commercial,27876,584.28,127,10,Good,Contractor_E,Finishing,20.04,10.07,9.969999999999999,On Time,Moderate (6-10 days),1,On Time,High,Medium Risk
+P0145,Commercial,44013,865.86,180,18,Good,Contractor_A,Finishing,68.67,32.61,36.06,Delayed,Very High (16+ days),1,Severe Delay,High,Medium Risk
+P0146,Residential,14699,429.58,228,14,Moderate,Contractor_A,Roofing,48.97,28.94,20.029999999999998,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0147,Industrial,16376,507.56,259,6,Good,Contractor_A,Foundation,80.18,74.81,5.3700000000000045,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0148,Industrial,8745,196.81,69,7,Moderate,Contractor_C,Finishing,50.01,33.47,16.54,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0149,Residential,7714,141.6,30,7,Moderate,Contractor_A,Structure,58.88,50.18,8.700000000000003,On Time,Moderate (6-10 days),1,On Time,Low,Medium Risk
+P0150,Commercial,1226,23.78,175,9,Poor,Contractor_E,Finishing,52.57,26.61,25.96,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0151,Infrastructure,47100,1622.77,89,4,Good,Contractor_E,Roofing,72.05,68.13,3.9200000000000017,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0152,Residential,11862,273.09,188,6,Good,Contractor_C,Structure,48.49,35.44,13.050000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0153,Residential,18797,584.15,291,10,Good,Contractor_B,Foundation,97.1,77.39,19.709999999999994,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0154,Commercial,30948,885.71,87,10,Good,Contractor_C,Foundation,94.89,76.09,18.799999999999997,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0155,Infrastructure,26672,653.28,271,4,Moderate,Contractor_A,Finishing,87.84,75.62,12.219999999999999,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0156,Residential,43374,932.4,67,9,Good,Contractor_C,Structure,93.62,75.06,18.560000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0157,Industrial,8157,163.66,203,10,Good,Contractor_E,Structure,55.93,44.43,11.5,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0158,Infrastructure,19350,550.61,206,4,Poor,Contractor_C,Finishing,62.91,47.98,14.93,Delayed,Low (0-5 days),1,Moderate Delay,Very High,Medium Risk
+P0159,Residential,25925,808.05,109,11,Moderate,Contractor_C,Finishing,79.37,50.37,29.000000000000007,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0160,Industrial,27185,786.91,158,8,Good,Contractor_B,Electrical,75.69,60.01,15.68,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0161,Commercial,47819,1291.84,108,7,Good,Contractor_E,Electrical,91.25,78.76,12.489999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0162,Industrial,25078,469.29,293,12,Good,Contractor_D,Finishing,77.31,56.31,21.0,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0163,Industrial,29331,1010.87,38,6,Poor,Contractor_D,Roofing,99.83,72.58,27.25,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0164,Industrial,8406,265.45,173,9,Moderate,Contractor_E,Electrical,47.88,28.46,19.42,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0165,Residential,7787,178.93,279,5,Moderate,Contractor_D,Finishing,86.64,71.17,15.469999999999999,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0166,Infrastructure,34160,1183.97,127,8,Poor,Contractor_A,Structure,75.81,62.18,13.630000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0167,Commercial,10722,302.7,78,8,Good,Contractor_D,Electrical,75.31,55.42,19.89,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0168,Residential,37943,1058.65,144,6,Good,Contractor_A,Roofing,46.07,32.9,13.170000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0169,Residential,35201,1081.28,292,6,Good,Contractor_E,Foundation,82.85,77.75,5.099999999999994,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0170,Industrial,18264,580.8,126,11,Moderate,Contractor_D,Structure,92.03,64.31,27.72,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0171,Industrial,45141,1316.32,264,9,Poor,Contractor_D,Roofing,37.48,23.07,14.409999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0172,Residential,18174,366.71,266,13,Good,Contractor_A,Roofing,70.04,48.78,21.260000000000005,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0173,Industrial,18524,439.96,27,7,Good,Contractor_A,Roofing,51.37,33.23,18.14,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0174,Residential,46507,1570.89,160,5,Poor,Contractor_C,Structure,99.16,81.21,17.950000000000003,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0175,Industrial,24374,531.8,27,10,Good,Contractor_B,Roofing,58.31,35.77,22.54,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0176,Residential,44142,1073.84,113,7,Poor,Contractor_D,Foundation,38.27,12.3,25.970000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0177,Industrial,32784,830.92,58,9,Good,Contractor_B,Electrical,50.55,41.12,9.43,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0178,Commercial,18102,461.06,100,10,Good,Contractor_B,Structure,72.31,50.71,21.6,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0179,Infrastructure,38284,1088.03,206,7,Good,Contractor_D,Roofing,26.09,17.64,8.45,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0180,Residential,23765,808.78,103,6,Moderate,Contractor_A,Finishing,68.29,47.85,20.440000000000005,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0181,Commercial,26431,583.91,107,8,Moderate,Contractor_C,Electrical,94.5,73.24,21.260000000000005,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0182,Residential,29341,588.74,261,7,Good,Contractor_E,Structure,88.03,79.69,8.340000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0183,Infrastructure,29692,634.13,112,6,Poor,Contractor_D,Finishing,25.41,4.17,21.240000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0184,Infrastructure,47042,1556.04,105,10,Moderate,Contractor_D,Finishing,99.47,78.37,21.099999999999994,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0185,Commercial,43020,1246.67,63,9,Moderate,Contractor_E,Roofing,75.9,44.81,31.090000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0186,Industrial,16085,367.71,156,4,Good,Contractor_B,Structure,32.98,32.68,0.29999999999999716,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0187,Infrastructure,26059,830.53,93,9,Poor,Contractor_C,Roofing,20.99,0.0,20.99,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0188,Industrial,40559,1323.98,55,14,Good,Contractor_B,Foundation,33.7,15.41,18.290000000000003,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0189,Industrial,34242,1109.12,120,5,Good,Contractor_E,Finishing,87.05,78.93,8.11999999999999,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0190,Residential,4633,155.77,175,11,Good,Contractor_E,Foundation,21.73,8.35,13.38,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0191,Residential,15163,337.95,274,2,Good,Contractor_C,Roofing,38.65,38.16,0.490000000000002,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0192,Infrastructure,22254,686.22,190,4,Poor,Contractor_E,Electrical,80.58,55.16,25.42,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0193,Infrastructure,4472,115.51,235,9,Good,Contractor_E,Finishing,66.89,57.51,9.380000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0194,Industrial,5795,187.26,189,2,Good,Contractor_C,Electrical,82.62,80.42,2.200000000000003,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0195,Commercial,47181,1433.56,271,10,Moderate,Contractor_D,Structure,79.69,61.98,17.71,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0196,Commercial,42373,1322.02,74,8,Moderate,Contractor_B,Finishing,24.05,5.35,18.700000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0197,Industrial,29625,863.71,110,13,Moderate,Contractor_D,Foundation,91.4,52.24,39.160000000000004,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0198,Infrastructure,41496,872.09,297,6,Good,Contractor_D,Electrical,38.16,37.83,0.3299999999999983,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0199,Infrastructure,10403,283.64,120,11,Moderate,Contractor_B,Structure,64.27,39.55,24.72,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0200,Infrastructure,3520,122.28,174,7,Good,Contractor_D,Finishing,71.54,48.9,22.640000000000008,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0201,Industrial,42255,1433.95,160,4,Poor,Contractor_C,Structure,33.49,10.09,23.400000000000002,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0202,Residential,20920,391.91,192,4,Moderate,Contractor_B,Foundation,98.1,86.87,11.22999999999999,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0203,Residential,21952,456.64,29,4,Moderate,Contractor_A,Finishing,59.05,46.63,12.419999999999995,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0204,Infrastructure,46148,934.01,247,6,Good,Contractor_D,Structure,24.61,9.09,15.52,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0205,Industrial,38501,1168.18,284,5,Good,Contractor_E,Roofing,94.98,82.79,12.189999999999998,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0206,Residential,10016,319.53,267,11,Good,Contractor_B,Finishing,66.9,58.05,8.850000000000009,On Time,High (11-15 days),1,On Time,Very High,Medium Risk
+P0207,Residential,47827,1034.48,266,11,Good,Contractor_A,Finishing,75.94,61.04,14.899999999999999,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0208,Industrial,49969,1329.15,174,4,Good,Contractor_E,Finishing,62.01,62.04,-0.030000000000001137,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0209,Residential,2896,93.52,53,6,Moderate,Contractor_A,Finishing,86.78,81.72,5.060000000000002,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0210,Residential,19046,580.1,148,7,Good,Contractor_D,Roofing,22.65,18.3,4.349999999999998,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0211,Industrial,19629,534.26,179,6,Moderate,Contractor_E,Foundation,41.47,26.94,14.529999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0212,Industrial,2091,58.62,108,8,Good,Contractor_D,Roofing,57.57,41.71,15.86,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0213,Industrial,11803,314.46,112,7,Good,Contractor_E,Roofing,26.13,16.61,9.52,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0214,Residential,31061,716.21,260,4,Moderate,Contractor_B,Structure,76.47,58.6,17.869999999999997,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0215,Industrial,6683,184.49,136,8,Moderate,Contractor_C,Electrical,51.49,29.34,22.150000000000002,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0216,Residential,27072,804.34,113,4,Good,Contractor_C,Electrical,41.81,35.88,5.93,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0217,Commercial,34580,1135.83,182,13,Good,Contractor_A,Structure,20.27,2.03,18.24,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0218,Industrial,21195,610.78,118,7,Moderate,Contractor_E,Roofing,77.59,60.02,17.57,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0219,Industrial,7814,241.76,132,7,Good,Contractor_D,Structure,86.7,76.29,10.409999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0220,Infrastructure,20123,416.97,110,6,Good,Contractor_B,Finishing,51.6,48.93,2.6700000000000017,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0221,Industrial,2639,68.21,225,9,Moderate,Contractor_B,Structure,65.14,48.12,17.020000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0222,Industrial,47956,870.82,36,7,Good,Contractor_B,Structure,38.21,17.66,20.55,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0223,Residential,31790,705.53,293,7,Good,Contractor_C,Finishing,69.78,52.71,17.07,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0224,Commercial,18588,564.14,192,10,Poor,Contractor_D,Electrical,20.97,0.0,20.97,Delayed,Moderate (6-10 days),2,Severe Delay,High,High Risk
+P0225,Commercial,40192,1401.12,135,10,Moderate,Contractor_B,Finishing,59.09,37.42,21.67,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0226,Residential,33630,662.04,200,10,Good,Contractor_B,Foundation,71.54,49.25,22.290000000000006,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0227,Infrastructure,32588,809.01,110,3,Good,Contractor_A,Structure,93.46,86.04,7.4199999999999875,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0228,Commercial,26792,846.66,101,9,Good,Contractor_E,Structure,50.51,35.93,14.579999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0229,Infrastructure,46749,1003.64,133,10,Moderate,Contractor_E,Electrical,81.22,53.83,27.39,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0230,Industrial,21170,580.83,276,10,Moderate,Contractor_E,Roofing,67.81,44.21,23.6,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0231,Infrastructure,4238,129.1,77,8,Good,Contractor_A,Finishing,94.16,72.21,21.950000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0232,Industrial,2969,84.53,173,9,Good,Contractor_C,Roofing,51.87,44.31,7.559999999999995,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0233,Industrial,23034,488.24,135,14,Good,Contractor_A,Foundation,45.53,28.83,16.700000000000003,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0234,Commercial,49374,1187.03,285,9,Good,Contractor_B,Finishing,90.97,81.56,9.409999999999997,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0235,Residential,9517,298.11,222,11,Moderate,Contractor_D,Foundation,23.94,1.53,22.41,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0236,Industrial,3308,90.71,60,9,Good,Contractor_B,Foundation,30.91,3.49,27.42,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0237,Commercial,49638,897.9,124,4,Good,Contractor_B,Foundation,26.59,26.28,0.3099999999999987,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0238,Residential,48138,1489.24,212,8,Good,Contractor_D,Finishing,87.45,70.92,16.53,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0239,Industrial,13213,245.77,297,13,Good,Contractor_E,Finishing,20.85,7.36,13.490000000000002,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0240,Residential,40829,1252.53,256,3,Good,Contractor_A,Electrical,88.93,73.84,15.090000000000003,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0241,Infrastructure,3219,69.02,240,9,Moderate,Contractor_C,Structure,56.1,45.58,10.520000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0242,Infrastructure,23390,801.98,87,8,Moderate,Contractor_B,Roofing,20.32,0.0,20.32,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0243,Infrastructure,12200,295.91,216,7,Poor,Contractor_B,Roofing,52.13,25.23,26.900000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0244,Commercial,37009,871.85,275,5,Poor,Contractor_C,Foundation,34.94,12.34,22.599999999999998,Delayed,Low (0-5 days),1,Severe Delay,Very High,Medium Risk
+P0245,Residential,43034,883.54,158,2,Moderate,Contractor_A,Finishing,69.95,66.34,3.6099999999999994,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0246,Infrastructure,37266,864.39,168,6,Moderate,Contractor_B,Finishing,74.35,65.63,8.719999999999999,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0247,Commercial,27205,895.13,118,4,Poor,Contractor_C,Foundation,59.0,34.48,24.520000000000003,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0248,Infrastructure,19287,673.84,95,8,Good,Contractor_B,Structure,23.24,4.0,19.24,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0249,Infrastructure,49345,1197.17,128,10,Good,Contractor_E,Roofing,72.49,52.32,20.169999999999995,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0250,Infrastructure,27088,694.17,207,7,Good,Contractor_E,Electrical,87.36,71.08,16.28,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0251,Commercial,26623,806.02,218,9,Moderate,Contractor_B,Structure,77.63,66.81,10.819999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0252,Commercial,33562,1109.74,173,6,Moderate,Contractor_B,Finishing,86.4,80.23,6.170000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0253,Infrastructure,10677,299.83,59,8,Good,Contractor_E,Foundation,36.04,22.52,13.52,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0254,Commercial,22227,548.03,152,7,Good,Contractor_B,Roofing,91.11,83.01,8.099999999999994,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0255,Residential,30720,768.45,151,2,Good,Contractor_A,Foundation,45.78,45.71,0.07000000000000028,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0256,Industrial,10382,309.65,298,9,Good,Contractor_A,Finishing,21.07,6.18,14.89,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0257,Infrastructure,1636,29.54,103,5,Good,Contractor_D,Foundation,87.47,73.03,14.439999999999998,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0258,Industrial,35332,1008.13,261,11,Good,Contractor_A,Roofing,95.35,80.32,15.030000000000001,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0259,Industrial,32466,780.59,135,10,Good,Contractor_B,Foundation,72.44,61.52,10.919999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0260,Residential,7509,236.54,128,7,Moderate,Contractor_B,Roofing,38.51,18.95,19.56,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0261,Industrial,13487,264.09,240,9,Moderate,Contractor_C,Foundation,40.14,23.05,17.09,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0262,Infrastructure,37811,1058.69,60,5,Moderate,Contractor_A,Foundation,57.33,39.49,17.839999999999996,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0263,Residential,32075,839.61,166,6,Moderate,Contractor_E,Roofing,91.83,79.49,12.340000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0264,Industrial,1507,43.58,131,4,Moderate,Contractor_E,Foundation,31.97,19.27,12.7,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0265,Infrastructure,5945,113.56,122,8,Moderate,Contractor_D,Structure,86.08,74.15,11.929999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0266,Industrial,11206,312.2,65,9,Moderate,Contractor_C,Electrical,43.3,16.77,26.529999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0267,Industrial,48017,1322.64,290,8,Moderate,Contractor_E,Structure,84.69,67.85,16.840000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0268,Industrial,44986,1238.52,214,9,Good,Contractor_D,Electrical,93.62,83.94,9.680000000000007,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0269,Commercial,29757,840.91,299,4,Good,Contractor_A,Structure,54.2,45.55,8.650000000000006,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0270,Commercial,22236,655.96,59,9,Moderate,Contractor_C,Electrical,49.2,29.65,19.550000000000004,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0271,Infrastructure,42707,1353.16,208,10,Good,Contractor_C,Foundation,84.18,72.79,11.39,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0272,Infrastructure,13781,311.27,183,7,Good,Contractor_B,Roofing,62.36,57.87,4.490000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0273,Infrastructure,1935,61.97,43,5,Good,Contractor_A,Roofing,74.76,69.62,5.140000000000001,On Time,Low (0-5 days),1,On Time,Low,Medium Risk
+P0274,Infrastructure,33839,895.73,43,8,Good,Contractor_C,Finishing,69.83,49.0,20.83,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0275,Industrial,35650,688.4,23,9,Poor,Contractor_D,Electrical,32.23,0.0,32.23,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0276,Industrial,26321,499.98,200,9,Good,Contractor_E,Finishing,87.58,76.33,11.25,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0277,Infrastructure,27160,643.2,267,7,Good,Contractor_A,Finishing,35.66,29.15,6.509999999999998,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0278,Industrial,5584,175.02,135,5,Good,Contractor_A,Electrical,94.58,96.14,-1.5600000000000023,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0279,Industrial,17161,515.35,298,10,Moderate,Contractor_C,Roofing,40.05,30.92,9.129999999999995,On Time,Moderate (6-10 days),1,On Time,Very High,Medium Risk
+P0280,Infrastructure,14007,439.91,88,6,Moderate,Contractor_C,Electrical,78.71,58.52,20.18999999999999,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0281,Infrastructure,7559,202.53,273,10,Moderate,Contractor_C,Foundation,42.77,32.64,10.130000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0282,Commercial,18771,478.35,200,4,Moderate,Contractor_D,Finishing,45.42,40.14,5.280000000000001,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0283,Commercial,46039,944.11,188,7,Good,Contractor_B,Finishing,44.8,32.88,11.919999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0284,Residential,7991,188.42,268,12,Good,Contractor_C,Electrical,79.83,61.38,18.449999999999996,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0285,Industrial,47795,1212.96,207,8,Good,Contractor_B,Finishing,64.55,50.93,13.619999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0286,Residential,15359,299.6,73,7,Moderate,Contractor_B,Roofing,90.64,71.35,19.290000000000006,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0287,Commercial,8573,186.47,157,6,Moderate,Contractor_A,Finishing,44.59,32.37,12.220000000000006,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0288,Industrial,9577,269.78,187,12,Good,Contractor_E,Electrical,75.36,63.05,12.310000000000002,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0289,Commercial,21453,654.45,122,5,Good,Contractor_E,Roofing,80.24,75.91,4.329999999999998,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0290,Industrial,11883,415.57,104,6,Good,Contractor_D,Roofing,32.12,23.29,8.829999999999998,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0291,Residential,49646,1681.16,231,5,Moderate,Contractor_D,Finishing,52.05,49.0,3.049999999999997,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0292,Residential,2853,82.52,22,10,Good,Contractor_E,Electrical,58.63,39.72,18.910000000000004,Delayed,Moderate (6-10 days),2,Moderate Delay,Low,High Risk
+P0293,Infrastructure,24321,611.95,198,10,Good,Contractor_E,Finishing,48.45,35.31,13.14,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0294,Commercial,38067,1096.9,57,5,Good,Contractor_A,Foundation,45.77,36.67,9.100000000000001,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0295,Residential,25360,795.19,258,11,Moderate,Contractor_A,Foundation,74.91,55.12,19.79,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0296,Industrial,21695,434.15,188,8,Moderate,Contractor_E,Roofing,37.27,16.93,20.340000000000003,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0297,Infrastructure,12439,310.58,49,4,Good,Contractor_C,Finishing,76.75,61.11,15.64,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0298,Residential,25838,833.96,209,8,Moderate,Contractor_C,Foundation,94.8,70.24,24.560000000000002,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0299,Industrial,22230,545.19,44,3,Good,Contractor_A,Structure,65.22,62.18,3.039999999999999,On Time,Low (0-5 days),1,On Time,Low,Medium Risk
+P0300,Residential,21927,607.86,131,4,Poor,Contractor_B,Foundation,68.91,53.01,15.899999999999999,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0301,Residential,35696,999.21,225,6,Good,Contractor_E,Finishing,25.51,10.37,15.140000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0302,Industrial,27583,583.0,204,13,Moderate,Contractor_D,Finishing,89.16,73.39,15.769999999999996,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0303,Industrial,22010,531.72,66,6,Good,Contractor_C,Foundation,42.84,35.4,7.440000000000005,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0304,Industrial,44564,1055.57,247,5,Good,Contractor_B,Finishing,69.2,64.78,4.420000000000002,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0305,Industrial,8313,153.34,58,4,Moderate,Contractor_C,Finishing,98.33,72.15,26.179999999999993,Delayed,Low (0-5 days),1,Severe Delay,Medium,Medium Risk
+P0306,Infrastructure,32098,590.96,35,8,Good,Contractor_B,Structure,67.64,53.71,13.93,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0307,Industrial,47682,1532.44,41,5,Good,Contractor_E,Roofing,77.98,58.74,19.240000000000002,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0308,Commercial,28070,635.57,232,6,Good,Contractor_E,Finishing,55.63,46.77,8.86,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0309,Infrastructure,27582,739.4,168,10,Good,Contractor_E,Electrical,24.83,15.56,9.269999999999998,On Time,Moderate (6-10 days),1,On Time,High,Medium Risk
+P0310,Commercial,29741,686.37,260,16,Good,Contractor_A,Roofing,83.81,45.81,38.0,Delayed,Very High (16+ days),1,Severe Delay,Very High,Medium Risk
+P0311,Commercial,31178,1059.79,291,5,Good,Contractor_B,Roofing,22.8,14.33,8.47,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0312,Residential,45069,1009.91,78,10,Moderate,Contractor_D,Electrical,76.05,50.81,25.239999999999995,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0313,Residential,12245,309.85,221,6,Moderate,Contractor_D,Foundation,21.83,5.16,16.669999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0314,Infrastructure,26529,871.12,51,10,Good,Contractor_E,Structure,88.98,66.18,22.799999999999997,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0315,Infrastructure,13525,437.03,181,6,Moderate,Contractor_D,Finishing,32.61,7.85,24.759999999999998,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0316,Industrial,36624,775.1,274,9,Poor,Contractor_C,Foundation,61.14,26.71,34.43,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0317,Commercial,14788,467.97,273,11,Good,Contractor_B,Electrical,67.77,55.93,11.839999999999996,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0318,Residential,24150,622.81,28,4,Good,Contractor_B,Structure,56.6,33.15,23.450000000000003,Delayed,Low (0-5 days),1,Severe Delay,Low,Medium Risk
+P0319,Residential,7040,184.52,158,12,Moderate,Contractor_B,Structure,47.26,27.76,19.499999999999996,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0320,Commercial,32732,663.45,29,10,Moderate,Contractor_C,Structure,57.43,28.54,28.89,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0321,Industrial,16922,327.78,233,6,Good,Contractor_A,Electrical,44.91,43.17,1.7399999999999949,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0322,Industrial,3842,116.7,292,12,Good,Contractor_C,Foundation,55.05,31.87,23.179999999999996,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0323,Industrial,42346,1119.62,67,10,Good,Contractor_B,Finishing,48.71,31.01,17.7,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0324,Commercial,36112,918.2,130,6,Poor,Contractor_B,Structure,65.3,50.05,15.25,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0325,Infrastructure,10896,331.26,172,10,Good,Contractor_B,Structure,39.03,18.09,20.94,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0326,Industrial,17982,557.69,142,8,Poor,Contractor_D,Foundation,99.09,67.91,31.180000000000007,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0327,Industrial,23911,494.99,121,10,Good,Contractor_A,Structure,60.07,37.72,22.35,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0328,Industrial,47266,1341.12,260,6,Good,Contractor_C,Structure,35.53,34.14,1.3900000000000006,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0329,Commercial,13761,279.36,210,5,Good,Contractor_B,Electrical,58.17,42.8,15.370000000000005,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0330,Residential,3593,110.57,236,15,Moderate,Contractor_E,Roofing,89.31,63.31,26.0,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0331,Commercial,12222,356.49,70,11,Good,Contractor_A,Foundation,21.74,0.0,21.74,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0332,Infrastructure,22542,772.34,100,6,Good,Contractor_E,Foundation,74.36,60.64,13.719999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,Medium,Low Risk
+P0333,Residential,44913,861.08,107,10,Poor,Contractor_A,Foundation,63.84,34.54,29.300000000000004,Delayed,Moderate (6-10 days),2,Severe Delay,High,High Risk
+P0334,Residential,48351,917.22,213,8,Poor,Contractor_B,Electrical,33.56,9.52,24.040000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0335,Residential,28587,651.7,123,13,Good,Contractor_A,Electrical,85.4,65.97,19.430000000000007,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0336,Residential,32847,737.38,290,5,Good,Contractor_A,Finishing,49.51,45.41,4.100000000000001,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0337,Infrastructure,34256,760.44,115,10,Moderate,Contractor_B,Electrical,43.5,28.44,15.059999999999999,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0338,Industrial,39714,1326.7,217,10,Moderate,Contractor_E,Foundation,86.25,68.06,18.189999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0339,Commercial,16835,374.45,20,2,Good,Contractor_E,Finishing,71.08,54.13,16.949999999999996,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0340,Residential,29102,658.38,186,9,Poor,Contractor_D,Roofing,91.86,73.34,18.519999999999996,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0341,Commercial,49401,1526.97,145,8,Good,Contractor_E,Structure,70.39,51.69,18.700000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0342,Commercial,34950,896.31,100,12,Moderate,Contractor_E,Structure,79.27,53.95,25.319999999999993,Delayed,High (11-15 days),1,Severe Delay,Medium,Medium Risk
+P0343,Residential,32696,1020.25,270,7,Good,Contractor_A,Finishing,86.92,72.51,14.409999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0344,Commercial,6126,117.08,188,11,Moderate,Contractor_D,Roofing,24.38,0.0,24.38,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0345,Commercial,7924,208.31,92,7,Good,Contractor_B,Structure,82.08,64.7,17.379999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0346,Industrial,13357,248.06,160,8,Moderate,Contractor_B,Finishing,69.1,51.99,17.109999999999992,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0347,Industrial,45423,865.99,89,10,Poor,Contractor_C,Electrical,25.56,0.0,25.56,Delayed,Moderate (6-10 days),3,Severe Delay,Medium,High Risk
+P0348,Residential,20482,684.29,281,7,Good,Contractor_D,Foundation,60.69,45.72,14.969999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0349,Commercial,11925,242.88,264,9,Good,Contractor_A,Roofing,26.6,18.31,8.290000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0350,Industrial,2480,67.09,22,8,Good,Contractor_C,Structure,78.88,65.01,13.86999999999999,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0351,Industrial,48790,1219.2,82,7,Poor,Contractor_C,Foundation,63.72,40.5,23.22,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0352,Infrastructure,26931,643.78,68,9,Poor,Contractor_B,Finishing,96.29,65.19,31.10000000000001,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0353,Industrial,19940,663.95,95,10,Moderate,Contractor_E,Structure,34.65,3.05,31.599999999999998,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0354,Residential,42252,776.21,194,6,Good,Contractor_A,Foundation,68.48,59.24,9.240000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0355,Residential,17675,517.6,128,3,Poor,Contractor_D,Electrical,36.93,10.43,26.5,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0356,Industrial,49151,1689.7,202,7,Good,Contractor_C,Roofing,69.13,56.05,13.079999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0357,Residential,26885,739.95,211,2,Good,Contractor_A,Finishing,77.81,77.08,0.730000000000004,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0358,Industrial,38658,1311.51,84,10,Good,Contractor_B,Structure,77.78,54.16,23.620000000000005,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0359,Infrastructure,23519,444.24,290,4,Good,Contractor_C,Electrical,85.21,80.42,4.789999999999992,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0360,Industrial,19139,480.76,119,7,Moderate,Contractor_C,Roofing,88.28,71.44,16.840000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0361,Commercial,20494,459.53,51,13,Moderate,Contractor_B,Roofing,26.18,2.84,23.34,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0362,Industrial,34875,1061.04,147,7,Good,Contractor_B,Electrical,47.46,44.5,2.960000000000001,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0363,Commercial,22063,765.19,62,8,Good,Contractor_B,Structure,74.97,55.56,19.409999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0364,Industrial,39841,890.89,97,5,Good,Contractor_A,Roofing,59.89,45.03,14.86,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0365,Infrastructure,6276,182.76,289,8,Moderate,Contractor_A,Finishing,35.25,8.52,26.73,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0366,Commercial,36944,789.41,181,8,Good,Contractor_A,Foundation,64.22,56.27,7.949999999999996,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0367,Infrastructure,3880,107.13,208,6,Good,Contractor_E,Finishing,52.59,36.27,16.32,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0368,Infrastructure,9211,238.44,266,9,Moderate,Contractor_C,Roofing,51.2,26.13,25.070000000000004,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0369,Residential,9282,320.45,235,13,Poor,Contractor_A,Foundation,84.78,55.74,29.04,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0370,Residential,17934,508.34,187,9,Poor,Contractor_E,Electrical,52.61,20.17,32.44,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0371,Residential,47265,1131.6,212,10,Poor,Contractor_C,Foundation,22.12,0.0,22.12,Delayed,Moderate (6-10 days),2,Severe Delay,Very High,High Risk
+P0372,Residential,20517,409.1,32,11,Moderate,Contractor_A,Foundation,24.65,0.0,24.65,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0373,Residential,31207,641.97,259,8,Good,Contractor_B,Foundation,88.5,65.66,22.840000000000003,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0374,Industrial,39610,864.7,166,7,Poor,Contractor_D,Roofing,96.85,68.85,28.0,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0375,Residential,17843,397.3,223,4,Good,Contractor_A,Structure,75.07,79.75,-4.680000000000007,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0376,Commercial,39327,1276.57,99,3,Moderate,Contractor_D,Roofing,49.15,36.36,12.79,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0377,Infrastructure,42152,1160.9,62,10,Good,Contractor_A,Structure,95.09,83.28,11.810000000000002,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0378,Residential,6155,165.56,108,12,Moderate,Contractor_B,Electrical,73.02,48.3,24.72,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0379,Infrastructure,45359,904.96,167,8,Good,Contractor_D,Electrical,87.55,75.08,12.469999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0380,Commercial,15751,513.84,114,10,Good,Contractor_E,Electrical,81.27,68.71,12.560000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0381,Residential,1026,31.08,170,6,Moderate,Contractor_B,Electrical,50.33,41.47,8.86,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0382,Industrial,3724,71.32,21,6,Good,Contractor_D,Electrical,58.3,44.03,14.269999999999996,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0383,Industrial,48337,1451.71,41,8,Poor,Contractor_D,Finishing,34.89,6.26,28.630000000000003,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0384,Infrastructure,12036,327.86,26,8,Good,Contractor_B,Roofing,43.36,24.5,18.86,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0385,Industrial,29041,563.09,225,11,Moderate,Contractor_B,Structure,82.25,60.22,22.03,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0386,Infrastructure,14047,362.29,133,7,Poor,Contractor_B,Electrical,91.52,66.09,25.429999999999993,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0387,Commercial,35031,919.21,291,9,Moderate,Contractor_C,Finishing,77.96,61.02,16.93999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0388,Residential,9212,191.78,102,10,Good,Contractor_E,Finishing,57.21,34.37,22.840000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0389,Infrastructure,39065,1331.21,198,8,Good,Contractor_A,Finishing,26.92,15.11,11.810000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0390,Infrastructure,9708,315.02,229,4,Good,Contractor_D,Roofing,24.56,13.94,10.62,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0391,Infrastructure,5609,164.76,143,9,Poor,Contractor_A,Electrical,49.95,25.97,23.980000000000004,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0392,Commercial,49768,1286.95,132,3,Moderate,Contractor_B,Finishing,57.11,33.89,23.22,Delayed,Low (0-5 days),0,Severe Delay,High,Low Risk
+P0393,Commercial,35701,892.53,31,12,Poor,Contractor_E,Finishing,68.73,29.27,39.46000000000001,Delayed,High (11-15 days),3,Severe Delay,Low,High Risk
+P0394,Infrastructure,17467,507.71,145,9,Good,Contractor_E,Electrical,20.52,0.0,20.52,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0395,Commercial,30259,825.23,72,7,Good,Contractor_C,Roofing,99.18,88.31,10.870000000000005,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0396,Infrastructure,20672,393.98,159,9,Good,Contractor_B,Finishing,49.12,37.86,11.259999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0397,Infrastructure,37435,999.98,116,4,Moderate,Contractor_D,Structure,87.85,77.79,10.059999999999988,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0398,Commercial,27089,858.96,24,6,Good,Contractor_C,Foundation,62.8,33.76,29.04,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0399,Infrastructure,30515,787.5,76,5,Good,Contractor_B,Foundation,30.44,20.48,9.96,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0400,Infrastructure,29509,557.23,88,9,Moderate,Contractor_C,Foundation,83.81,66.87,16.939999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0401,Residential,18273,573.16,137,12,Good,Contractor_A,Roofing,76.79,52.29,24.500000000000007,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0402,Infrastructure,41625,891.74,78,5,Moderate,Contractor_B,Finishing,62.19,46.04,16.15,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0403,Industrial,26643,596.71,52,8,Good,Contractor_D,Foundation,61.16,44.81,16.349999999999994,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0404,Infrastructure,6654,138.4,69,7,Good,Contractor_D,Foundation,27.0,15.47,11.53,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0405,Commercial,22304,526.68,38,10,Good,Contractor_B,Electrical,72.47,48.47,24.0,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0406,Infrastructure,42188,1302.12,233,8,Poor,Contractor_C,Finishing,92.9,63.59,29.310000000000002,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0407,Commercial,21081,565.59,216,8,Good,Contractor_E,Finishing,27.46,11.52,15.940000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0408,Residential,30587,657.1,66,10,Good,Contractor_B,Electrical,41.08,24.16,16.919999999999998,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0409,Infrastructure,33481,1102.3,186,10,Good,Contractor_D,Finishing,92.18,82.12,10.060000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0410,Residential,4262,140.45,160,7,Good,Contractor_A,Structure,42.75,52.35,-9.600000000000001,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0411,Commercial,46667,1530.67,103,8,Poor,Contractor_D,Roofing,72.32,51.69,20.629999999999995,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0412,Infrastructure,10268,226.51,201,12,Good,Contractor_E,Electrical,62.79,46.65,16.14,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0413,Infrastructure,43908,1127.17,98,2,Poor,Contractor_D,Foundation,67.71,51.25,16.459999999999994,Delayed,Low (0-5 days),2,Moderate Delay,Medium,High Risk
+P0414,Industrial,39999,1389.76,234,11,Good,Contractor_E,Finishing,53.26,38.11,15.149999999999999,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0415,Industrial,39059,1215.68,33,10,Poor,Contractor_B,Structure,44.0,0.0,44.0,Delayed,Moderate (6-10 days),3,Severe Delay,Low,High Risk
+P0416,Commercial,49090,906.29,234,7,Moderate,Contractor_D,Structure,23.88,5.92,17.96,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0417,Commercial,9283,177.38,147,15,Moderate,Contractor_C,Roofing,79.54,58.23,21.31000000000001,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0418,Commercial,46889,1213.81,267,5,Moderate,Contractor_C,Structure,79.69,63.91,15.780000000000001,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0419,Industrial,30281,1013.1,48,2,Good,Contractor_D,Finishing,73.66,62.94,10.719999999999999,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0420,Infrastructure,31311,850.34,299,9,Moderate,Contractor_D,Finishing,71.49,58.24,13.249999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0421,Infrastructure,49287,1304.27,221,14,Good,Contractor_A,Structure,39.5,17.06,22.44,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0422,Infrastructure,35988,712.31,76,7,Good,Contractor_D,Finishing,21.79,5.12,16.669999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0423,Residential,9405,274.3,237,5,Moderate,Contractor_A,Finishing,84.7,67.08,17.620000000000005,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0424,Commercial,9627,307.83,81,9,Good,Contractor_A,Foundation,59.29,51.55,7.740000000000002,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0425,Residential,22931,561.06,176,8,Moderate,Contractor_A,Electrical,44.55,24.31,20.24,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0426,Industrial,49653,1548.45,221,9,Good,Contractor_A,Finishing,28.15,7.6,20.549999999999997,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0427,Commercial,6868,236.23,36,8,Good,Contractor_B,Finishing,25.02,0.0,25.02,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0428,Infrastructure,27924,599.36,25,7,Poor,Contractor_C,Roofing,47.91,23.94,23.969999999999995,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0429,Commercial,47324,1272.85,77,8,Moderate,Contractor_A,Electrical,84.38,64.67,19.709999999999994,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0430,Residential,45504,1041.19,188,7,Moderate,Contractor_C,Electrical,93.5,78.25,15.25,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0431,Residential,18833,592.84,101,10,Moderate,Contractor_A,Electrical,91.74,66.84,24.89999999999999,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0432,Infrastructure,23616,656.98,238,8,Poor,Contractor_C,Structure,93.6,70.42,23.179999999999993,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0433,Industrial,47719,1373.73,196,5,Good,Contractor_D,Foundation,92.62,88.7,3.9200000000000017,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0434,Residential,43701,1379.4,223,6,Moderate,Contractor_D,Foundation,62.18,47.09,15.089999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0435,Residential,16025,396.32,90,8,Good,Contractor_C,Roofing,37.55,24.84,12.709999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0436,Industrial,23898,801.93,285,8,Good,Contractor_A,Electrical,83.84,69.03,14.810000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0437,Residential,33357,902.69,117,9,Good,Contractor_B,Electrical,37.1,27.41,9.690000000000001,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0438,Infrastructure,10861,224.66,227,11,Good,Contractor_C,Finishing,41.38,29.99,11.390000000000004,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0439,Industrial,16869,503.21,21,12,Moderate,Contractor_E,Structure,38.66,1.16,37.5,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0440,Residential,3541,111.49,143,9,Poor,Contractor_B,Structure,61.2,24.34,36.86,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0441,Residential,605,14.15,299,5,Moderate,Contractor_E,Roofing,45.75,24.14,21.61,Delayed,Low (0-5 days),0,Severe Delay,Very High,Low Risk
+P0442,Infrastructure,9578,311.98,93,3,Moderate,Contractor_C,Foundation,32.33,21.03,11.299999999999997,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0443,Commercial,25503,851.91,185,13,Good,Contractor_A,Electrical,56.25,31.47,24.78,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0444,Commercial,6590,149.64,41,12,Good,Contractor_E,Roofing,89.91,69.02,20.89,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0445,Infrastructure,39350,1366.23,173,16,Good,Contractor_C,Structure,65.64,39.1,26.54,Delayed,Very High (16+ days),1,Severe Delay,High,Medium Risk
+P0446,Infrastructure,2425,49.45,238,8,Moderate,Contractor_B,Structure,90.27,76.19,14.079999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0447,Infrastructure,18940,405.97,176,13,Good,Contractor_A,Structure,35.67,9.89,25.78,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0448,Infrastructure,40185,849.18,249,10,Good,Contractor_E,Electrical,33.36,12.74,20.619999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0449,Commercial,26515,880.24,39,8,Poor,Contractor_C,Electrical,66.05,25.19,40.86,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0450,Residential,33820,984.94,60,13,Moderate,Contractor_A,Electrical,57.07,28.92,28.15,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0451,Infrastructure,25791,530.93,167,10,Moderate,Contractor_A,Finishing,72.81,44.91,27.900000000000006,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0452,Industrial,37179,947.53,127,12,Moderate,Contractor_D,Foundation,83.57,58.04,25.529999999999994,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0453,Commercial,26789,762.42,103,8,Good,Contractor_A,Structure,80.1,66.36,13.739999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0454,Infrastructure,3889,75.52,153,9,Good,Contractor_C,Structure,95.38,80.2,15.179999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0455,Residential,26183,864.07,226,9,Moderate,Contractor_B,Finishing,51.86,24.87,26.99,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0456,Commercial,14129,447.34,285,6,Moderate,Contractor_D,Structure,36.51,23.17,13.339999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0457,Residential,25326,673.38,92,6,Moderate,Contractor_C,Structure,64.07,48.24,15.829999999999991,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0458,Commercial,35698,1229.48,67,11,Good,Contractor_C,Electrical,28.86,18.45,10.41,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0459,Residential,27130,681.02,252,7,Moderate,Contractor_C,Electrical,43.11,28.35,14.759999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0460,Residential,33726,1171.3,119,11,Good,Contractor_E,Foundation,36.63,18.73,17.900000000000002,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0461,Residential,46663,1369.78,78,10,Good,Contractor_E,Structure,51.73,37.18,14.549999999999997,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0462,Industrial,33475,963.73,277,7,Good,Contractor_B,Roofing,28.9,23.44,5.459999999999997,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0463,Industrial,1399,29.13,84,5,Good,Contractor_C,Structure,22.55,21.43,1.120000000000001,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0464,Industrial,12153,400.96,102,3,Good,Contractor_E,Structure,72.54,69.52,3.0200000000000102,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0465,Infrastructure,28461,719.13,173,5,Good,Contractor_E,Foundation,68.82,54.21,14.609999999999992,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0466,Commercial,16905,350.91,285,4,Moderate,Contractor_E,Roofing,76.67,73.08,3.5900000000000034,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0467,Commercial,9101,165.77,98,9,Moderate,Contractor_B,Structure,72.83,48.62,24.21,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0468,Infrastructure,34162,940.0,169,11,Good,Contractor_B,Roofing,29.14,8.24,20.9,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0469,Residential,33782,910.96,67,2,Good,Contractor_C,Electrical,43.29,23.79,19.5,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0470,Infrastructure,21788,658.63,267,11,Poor,Contractor_D,Electrical,30.36,0.0,30.36,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0471,Residential,30045,995.52,297,13,Good,Contractor_C,Roofing,87.44,63.17,24.269999999999996,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0472,Infrastructure,37377,723.24,117,10,Good,Contractor_E,Structure,79.75,62.67,17.08,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0473,Residential,46526,1416.04,44,10,Moderate,Contractor_E,Roofing,36.12,10.04,26.08,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0474,Infrastructure,15813,335.01,87,10,Good,Contractor_A,Roofing,47.3,25.4,21.9,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0475,Industrial,15849,516.5,26,11,Moderate,Contractor_C,Electrical,97.33,62.07,35.26,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0476,Infrastructure,7679,245.15,156,11,Moderate,Contractor_E,Roofing,67.53,45.18,22.35,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0477,Residential,10826,294.4,183,8,Poor,Contractor_E,Finishing,84.09,53.63,30.46,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0478,Industrial,45055,1354.99,102,7,Poor,Contractor_D,Finishing,41.17,2.81,38.36,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0479,Infrastructure,2060,48.09,157,8,Poor,Contractor_A,Electrical,36.8,12.45,24.349999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0480,Industrial,14112,367.05,92,6,Good,Contractor_C,Structure,82.71,70.97,11.739999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0481,Industrial,18150,580.22,256,11,Poor,Contractor_B,Structure,74.87,46.83,28.040000000000006,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0482,Industrial,27245,703.13,65,7,Good,Contractor_C,Electrical,74.48,58.91,15.570000000000007,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0483,Commercial,32390,780.03,125,10,Moderate,Contractor_C,Structure,64.21,38.09,26.11999999999999,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0484,Industrial,20522,541.81,281,9,Moderate,Contractor_D,Foundation,65.09,46.15,18.940000000000005,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0485,Industrial,5280,169.38,195,11,Good,Contractor_C,Finishing,78.86,61.41,17.450000000000003,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0486,Infrastructure,18811,445.79,185,6,Moderate,Contractor_D,Foundation,41.6,28.85,12.75,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0487,Residential,28880,605.15,164,5,Good,Contractor_D,Foundation,48.22,38.27,9.949999999999996,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0488,Commercial,45162,1359.57,73,6,Good,Contractor_E,Foundation,89.73,79.49,10.240000000000009,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0489,Infrastructure,2856,91.51,197,10,Poor,Contractor_B,Electrical,44.71,23.84,20.87,Delayed,Moderate (6-10 days),2,Severe Delay,High,High Risk
+P0490,Infrastructure,5290,104.27,263,10,Good,Contractor_D,Foundation,63.7,46.46,17.240000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0491,Commercial,27411,605.18,146,7,Good,Contractor_A,Roofing,76.21,55.81,20.39999999999999,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0492,Industrial,49958,1019.82,290,5,Good,Contractor_A,Structure,99.99,93.94,6.049999999999997,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0493,Commercial,24863,594.6,151,4,Poor,Contractor_B,Electrical,54.82,42.03,12.79,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0494,Residential,20549,527.2,112,11,Good,Contractor_D,Roofing,54.25,27.53,26.72,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0495,Commercial,10681,328.23,92,13,Good,Contractor_B,Roofing,87.41,65.44,21.97,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0496,Commercial,40325,1172.23,267,5,Poor,Contractor_E,Finishing,84.44,60.22,24.22,Delayed,Low (0-5 days),1,Severe Delay,Very High,Medium Risk
+P0497,Industrial,16582,473.51,292,10,Good,Contractor_A,Finishing,78.49,67.13,11.36,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0498,Residential,1161,27.85,62,5,Good,Contractor_C,Roofing,57.06,44.87,12.190000000000005,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0499,Infrastructure,37912,1224.73,60,12,Moderate,Contractor_A,Finishing,45.92,11.12,34.800000000000004,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0500,Infrastructure,48979,1274.04,189,10,Good,Contractor_D,Structure,68.7,53.05,15.650000000000006,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0501,Industrial,3420,118.49,231,10,Moderate,Contractor_B,Structure,90.1,69.38,20.72,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0502,Industrial,26158,752.84,187,4,Good,Contractor_A,Finishing,90.7,92.14,-1.4399999999999977,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0503,Commercial,49270,992.62,58,5,Poor,Contractor_C,Foundation,28.68,0.28,28.4,Delayed,Low (0-5 days),2,Severe Delay,Medium,High Risk
+P0504,Infrastructure,14525,428.42,264,13,Poor,Contractor_C,Roofing,54.27,26.7,27.570000000000004,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0505,Industrial,9446,222.23,170,6,Good,Contractor_B,Structure,57.18,42.58,14.600000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0506,Residential,29206,866.47,130,12,Good,Contractor_B,Finishing,98.21,79.2,19.00999999999999,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0507,Infrastructure,46000,882.46,66,5,Poor,Contractor_A,Finishing,74.24,48.96,25.279999999999994,Delayed,Low (0-5 days),2,Severe Delay,Medium,High Risk
+P0508,Infrastructure,39504,828.52,82,10,Good,Contractor_D,Structure,52.58,30.68,21.9,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0509,Infrastructure,16809,547.09,244,4,Moderate,Contractor_E,Structure,22.08,9.2,12.879999999999999,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0510,Industrial,46786,1022.84,88,11,Moderate,Contractor_C,Foundation,65.23,32.58,32.650000000000006,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0511,Industrial,33620,1083.56,222,5,Moderate,Contractor_B,Finishing,27.69,7.39,20.3,Delayed,Low (0-5 days),0,Severe Delay,Very High,Low Risk
+P0512,Commercial,30527,694.42,80,8,Moderate,Contractor_E,Finishing,86.76,72.65,14.11,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0513,Infrastructure,7505,217.11,180,9,Good,Contractor_E,Electrical,80.2,67.55,12.650000000000006,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0514,Infrastructure,47304,1409.69,35,10,Good,Contractor_E,Foundation,56.84,30.86,25.980000000000004,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0515,Residential,49810,1330.68,113,4,Poor,Contractor_D,Structure,54.34,40.49,13.850000000000001,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0516,Residential,1456,33.77,157,7,Moderate,Contractor_B,Structure,91.79,84.13,7.660000000000011,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0517,Commercial,35339,763.85,57,7,Moderate,Contractor_C,Roofing,43.08,26.34,16.74,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0518,Infrastructure,9095,168.84,146,4,Poor,Contractor_B,Structure,39.92,22.5,17.42,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0519,Infrastructure,48408,1121.47,294,18,Moderate,Contractor_A,Finishing,95.14,83.46,11.680000000000007,Delayed,Very High (16+ days),1,Moderate Delay,Very High,Medium Risk
+P0520,Residential,13303,387.17,183,7,Good,Contractor_C,Structure,84.74,79.81,4.929999999999993,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0521,Industrial,26463,898.45,96,7,Moderate,Contractor_B,Finishing,85.65,77.12,8.530000000000001,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0522,Commercial,36721,1204.83,193,1,Good,Contractor_C,Finishing,35.62,28.39,7.229999999999997,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0523,Infrastructure,39943,1239.16,110,8,Good,Contractor_A,Foundation,31.46,14.0,17.46,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0524,Infrastructure,34223,1074.73,257,8,Good,Contractor_C,Structure,22.08,8.69,13.389999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0525,Infrastructure,39563,1159.38,283,6,Moderate,Contractor_E,Foundation,38.96,24.46,14.5,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0526,Commercial,49189,1103.06,198,9,Poor,Contractor_D,Finishing,81.94,53.72,28.22,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0527,Commercial,15782,527.47,228,4,Good,Contractor_A,Structure,39.2,38.19,1.0100000000000051,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0528,Commercial,5203,152.98,92,6,Good,Contractor_C,Structure,78.33,60.83,17.5,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0529,Residential,7063,194.43,126,12,Moderate,Contractor_A,Foundation,40.15,16.68,23.47,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0530,Infrastructure,26349,524.0,201,15,Moderate,Contractor_E,Foundation,51.62,19.53,32.089999999999996,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0531,Infrastructure,32360,828.41,56,3,Moderate,Contractor_D,Finishing,98.65,79.65,19.0,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0532,Infrastructure,32085,828.63,156,9,Moderate,Contractor_A,Finishing,39.58,18.41,21.169999999999998,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0533,Infrastructure,22515,736.19,75,6,Moderate,Contractor_E,Structure,50.11,30.95,19.16,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0534,Industrial,12503,341.24,206,5,Good,Contractor_E,Structure,44.09,35.4,8.690000000000005,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0535,Infrastructure,44085,1078.62,277,4,Good,Contractor_E,Electrical,28.77,23.08,5.690000000000001,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0536,Infrastructure,27458,950.2,77,13,Good,Contractor_C,Electrical,59.19,33.84,25.349999999999994,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0537,Infrastructure,26517,527.22,142,7,Poor,Contractor_B,Roofing,50.3,26.77,23.529999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0538,Residential,11671,293.91,207,8,Good,Contractor_A,Finishing,75.59,66.03,9.560000000000002,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0539,Commercial,45850,858.06,249,8,Moderate,Contractor_B,Roofing,85.41,65.36,20.049999999999997,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0540,Residential,12701,388.38,187,9,Good,Contractor_E,Roofing,63.54,48.64,14.899999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0541,Infrastructure,29926,1005.73,133,10,Good,Contractor_B,Foundation,22.58,1.53,21.049999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0542,Industrial,18278,416.02,271,14,Good,Contractor_E,Foundation,69.51,57.56,11.950000000000003,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0543,Residential,45741,1490.78,126,3,Good,Contractor_E,Electrical,24.43,19.75,4.68,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0544,Industrial,42729,981.39,56,4,Good,Contractor_D,Roofing,69.31,61.81,7.5,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0545,Industrial,21616,723.77,111,8,Moderate,Contractor_D,Electrical,74.8,59.67,15.129999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0546,Commercial,48864,1505.86,37,9,Good,Contractor_B,Finishing,35.82,12.88,22.939999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0547,Residential,33797,1070.8,82,13,Moderate,Contractor_A,Structure,85.55,65.19,20.36,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0548,Industrial,19842,363.23,169,5,Good,Contractor_B,Foundation,92.89,84.72,8.170000000000002,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0549,Industrial,27990,961.95,158,8,Good,Contractor_A,Finishing,85.05,72.9,12.149999999999991,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0550,Infrastructure,20475,621.49,205,4,Good,Contractor_B,Finishing,44.41,43.66,0.75,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0551,Industrial,27223,631.05,204,8,Poor,Contractor_C,Foundation,66.93,42.14,24.790000000000006,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0552,Infrastructure,23779,763.3,224,5,Good,Contractor_C,Foundation,93.19,89.5,3.6899999999999977,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0553,Industrial,13265,302.25,279,12,Good,Contractor_A,Roofing,45.65,16.66,28.99,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0554,Industrial,47178,1549.18,233,6,Poor,Contractor_D,Electrical,85.6,58.59,27.00999999999999,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0555,Infrastructure,12061,240.18,275,9,Good,Contractor_A,Finishing,20.76,6.92,13.840000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0556,Commercial,42399,1270.39,154,8,Moderate,Contractor_B,Roofing,20.29,5.45,14.84,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0557,Residential,1025,27.87,80,12,Good,Contractor_E,Roofing,80.78,57.06,23.72,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0558,Residential,23361,458.84,107,11,Moderate,Contractor_C,Finishing,80.92,54.54,26.380000000000003,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0559,Infrastructure,49653,1097.94,226,6,Good,Contractor_E,Finishing,83.12,72.85,10.27000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0560,Industrial,33642,612.65,148,7,Poor,Contractor_C,Structure,94.4,76.98,17.42,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0561,Industrial,27416,711.97,22,3,Moderate,Contractor_B,Electrical,29.43,13.14,16.29,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0562,Residential,45465,1051.22,261,10,Good,Contractor_C,Finishing,38.56,23.17,15.39,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0563,Residential,5148,145.03,140,4,Good,Contractor_A,Foundation,92.3,84.85,7.450000000000003,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0564,Residential,35633,821.45,121,9,Good,Contractor_E,Structure,34.18,19.11,15.07,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0565,Commercial,31023,716.59,57,13,Moderate,Contractor_E,Electrical,74.58,41.39,33.19,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0566,Industrial,29552,905.3,152,13,Good,Contractor_B,Foundation,62.44,36.23,26.21,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0567,Commercial,34914,657.03,221,11,Good,Contractor_E,Foundation,26.66,5.1,21.560000000000002,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0568,Commercial,33281,1109.9,40,11,Moderate,Contractor_B,Electrical,42.82,11.97,30.85,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0569,Infrastructure,5099,165.66,261,6,Good,Contractor_D,Structure,61.63,58.92,2.710000000000001,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0570,Commercial,35546,1043.37,128,4,Good,Contractor_A,Foundation,88.19,76.26,11.929999999999993,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0571,Industrial,47564,1335.82,103,11,Good,Contractor_C,Roofing,76.6,54.65,21.949999999999996,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0572,Infrastructure,36423,1208.12,102,6,Moderate,Contractor_C,Electrical,69.75,55.59,14.159999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0573,Commercial,41589,879.63,88,3,Poor,Contractor_C,Electrical,59.68,40.47,19.21,Delayed,Low (0-5 days),2,Moderate Delay,Medium,High Risk
+P0574,Industrial,4314,83.44,148,15,Good,Contractor_D,Finishing,43.89,21.06,22.830000000000002,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0575,Infrastructure,46393,1023.97,215,4,Moderate,Contractor_A,Structure,29.54,20.73,8.809999999999999,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0576,Infrastructure,36484,1149.53,159,14,Good,Contractor_E,Roofing,52.73,40.47,12.259999999999998,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0577,Residential,27116,504.07,253,7,Good,Contractor_E,Roofing,22.28,17.36,4.920000000000002,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0578,Infrastructure,2613,72.92,42,7,Good,Contractor_A,Finishing,36.88,24.67,12.21,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0579,Commercial,43506,1519.34,172,11,Good,Contractor_A,Foundation,54.6,47.94,6.660000000000004,On Time,High (11-15 days),1,On Time,High,Medium Risk
+P0580,Commercial,14260,464.12,296,5,Good,Contractor_C,Foundation,53.49,51.56,1.9299999999999997,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0581,Commercial,22427,602.49,80,8,Poor,Contractor_E,Roofing,23.54,0.0,23.54,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0582,Infrastructure,21439,409.1,71,7,Poor,Contractor_A,Structure,67.12,38.27,28.85,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0583,Commercial,32919,1057.8,172,3,Good,Contractor_E,Foundation,63.97,64.32,-0.3499999999999943,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0584,Commercial,13088,368.85,256,7,Good,Contractor_A,Electrical,26.25,19.19,7.059999999999999,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0585,Industrial,36642,731.15,51,8,Poor,Contractor_B,Finishing,95.45,59.78,35.67,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0586,Residential,39698,777.91,74,6,Good,Contractor_C,Structure,27.95,9.25,18.7,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0587,Residential,45238,1513.83,55,5,Moderate,Contractor_A,Foundation,88.39,70.34,18.049999999999997,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0588,Residential,33897,995.77,129,8,Good,Contractor_D,Roofing,20.02,2.15,17.87,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0589,Residential,17153,550.57,196,5,Good,Contractor_A,Finishing,90.58,86.91,3.6700000000000017,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0590,Residential,11331,373.27,116,9,Good,Contractor_B,Foundation,21.58,6.62,14.959999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0591,Residential,6224,172.53,232,6,Poor,Contractor_D,Roofing,80.62,66.99,13.63000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0592,Industrial,11583,310.38,156,9,Poor,Contractor_D,Foundation,48.94,25.26,23.679999999999996,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0593,Residential,46417,1175.15,25,12,Good,Contractor_A,Finishing,79.06,53.32,25.740000000000002,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0594,Commercial,20316,475.15,128,12,Moderate,Contractor_B,Electrical,52.14,37.57,14.57,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0595,Infrastructure,42740,1085.09,54,5,Good,Contractor_D,Electrical,25.67,9.92,15.750000000000002,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0596,Commercial,6776,211.11,58,8,Good,Contractor_C,Roofing,81.4,60.64,20.760000000000005,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0597,Industrial,48903,1380.66,169,6,Moderate,Contractor_C,Electrical,25.7,6.64,19.06,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0598,Residential,39163,1299.15,137,4,Moderate,Contractor_E,Finishing,93.77,71.1,22.67,Delayed,Low (0-5 days),0,Severe Delay,High,Low Risk
+P0599,Residential,14494,370.14,280,6,Good,Contractor_E,Roofing,24.08,13.0,11.079999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0600,Residential,23999,679.66,106,8,Good,Contractor_B,Foundation,58.35,45.55,12.800000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0601,Residential,23540,676.36,95,5,Poor,Contractor_D,Structure,77.84,64.35,13.490000000000009,Delayed,Low (0-5 days),2,Moderate Delay,Medium,High Risk
+P0602,Commercial,43820,1229.54,233,7,Poor,Contractor_C,Foundation,51.46,27.0,24.46,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0603,Residential,17459,522.81,258,9,Moderate,Contractor_C,Finishing,37.38,16.08,21.300000000000004,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0604,Residential,6599,145.42,184,7,Good,Contractor_B,Roofing,80.73,77.01,3.719999999999999,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0605,Residential,42767,1142.31,106,12,Moderate,Contractor_D,Foundation,82.74,59.82,22.919999999999995,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0606,Commercial,20076,396.94,160,10,Good,Contractor_B,Roofing,93.82,78.76,15.059999999999988,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0607,Residential,36446,894.26,179,13,Poor,Contractor_A,Electrical,50.09,15.94,34.150000000000006,Delayed,High (11-15 days),2,Severe Delay,High,High Risk
+P0608,Commercial,6616,173.94,65,4,Good,Contractor_C,Structure,60.5,45.82,14.68,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0609,Industrial,16063,467.24,131,10,Good,Contractor_B,Finishing,49.05,36.73,12.32,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0610,Industrial,27288,932.13,64,8,Good,Contractor_B,Foundation,40.57,23.08,17.490000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0611,Residential,27428,773.77,266,6,Moderate,Contractor_A,Structure,80.08,63.21,16.869999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0612,Infrastructure,36836,1128.7,123,6,Moderate,Contractor_E,Finishing,47.17,34.08,13.090000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0613,Industrial,10347,275.3,104,12,Good,Contractor_C,Finishing,54.25,37.08,17.17,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0614,Residential,26655,767.12,153,13,Moderate,Contractor_B,Electrical,52.29,24.23,28.06,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0615,Infrastructure,14635,281.08,127,11,Moderate,Contractor_C,Roofing,77.01,56.4,20.610000000000007,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0616,Infrastructure,18274,407.96,37,11,Good,Contractor_E,Roofing,93.42,76.27,17.150000000000006,Delayed,High (11-15 days),2,Moderate Delay,Low,High Risk
+P0617,Residential,2242,54.15,113,5,Moderate,Contractor_B,Structure,73.34,53.41,19.930000000000007,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0618,Commercial,18809,489.64,169,8,Poor,Contractor_A,Electrical,57.73,39.16,18.57,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0619,Infrastructure,1119,21.01,265,9,Good,Contractor_C,Finishing,82.34,69.31,13.030000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0620,Industrial,18158,370.07,228,15,Good,Contractor_A,Electrical,71.28,47.17,24.11,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0621,Residential,35207,799.4,145,12,Good,Contractor_E,Electrical,24.85,4.57,20.28,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0622,Residential,20837,719.21,254,7,Good,Contractor_E,Structure,27.65,16.3,11.349999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0623,Commercial,16501,389.97,141,9,Good,Contractor_C,Roofing,23.03,24.24,-1.2099999999999973,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0624,Commercial,1468,38.45,157,7,Moderate,Contractor_E,Electrical,56.55,44.56,11.989999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0625,Industrial,48114,1026.45,134,7,Moderate,Contractor_D,Electrical,86.07,69.09,16.97999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0626,Commercial,26392,749.09,181,3,Good,Contractor_C,Electrical,45.05,41.1,3.9499999999999957,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0627,Commercial,26119,594.77,220,9,Moderate,Contractor_D,Foundation,50.73,29.67,21.059999999999995,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0628,Industrial,781,16.81,253,10,Moderate,Contractor_E,Electrical,92.76,67.65,25.11,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0629,Residential,27920,747.75,47,10,Poor,Contractor_C,Electrical,86.95,51.58,35.370000000000005,Delayed,Moderate (6-10 days),3,Severe Delay,Low,High Risk
+P0630,Commercial,15860,286.96,30,11,Good,Contractor_D,Finishing,73.2,53.15,20.050000000000004,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0631,Industrial,39530,716.69,225,6,Moderate,Contractor_E,Foundation,41.34,30.03,11.310000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0632,Infrastructure,1558,33.85,186,5,Poor,Contractor_B,Electrical,29.36,1.7,27.66,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0633,Industrial,21177,394.41,266,4,Good,Contractor_B,Electrical,21.28,16.18,5.100000000000001,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0634,Industrial,11224,222.64,66,6,Good,Contractor_A,Structure,28.56,15.72,12.839999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0635,Residential,28904,686.78,265,11,Good,Contractor_B,Structure,43.41,24.36,19.049999999999997,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0636,Commercial,38446,1216.58,146,10,Poor,Contractor_D,Foundation,64.14,30.95,33.19,Delayed,Moderate (6-10 days),2,Severe Delay,High,High Risk
+P0637,Industrial,40248,1115.87,166,15,Good,Contractor_B,Finishing,25.12,7.13,17.990000000000002,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0638,Residential,30356,810.97,137,9,Poor,Contractor_C,Foundation,30.9,7.88,23.02,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0639,Commercial,9700,223.0,171,4,Moderate,Contractor_C,Foundation,34.49,31.51,2.9800000000000004,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0640,Commercial,34497,1167.37,91,11,Good,Contractor_C,Structure,70.56,53.22,17.340000000000003,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0641,Residential,26111,646.23,156,11,Moderate,Contractor_B,Structure,69.26,44.92,24.340000000000003,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0642,Commercial,41735,813.02,194,9,Good,Contractor_B,Finishing,64.06,52.38,11.68,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0643,Residential,35557,1013.02,38,11,Good,Contractor_A,Electrical,40.04,8.18,31.86,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0644,Commercial,1739,34.67,214,9,Moderate,Contractor_E,Finishing,49.69,30.61,19.08,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0645,Residential,38638,922.24,194,4,Moderate,Contractor_A,Electrical,27.74,17.25,10.489999999999998,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0646,Infrastructure,49438,1316.34,160,11,Good,Contractor_D,Roofing,38.12,23.38,14.739999999999998,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0647,Industrial,625,20.54,265,3,Moderate,Contractor_C,Structure,91.82,89.12,2.6999999999999886,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0648,Industrial,45772,1207.94,112,8,Good,Contractor_B,Roofing,98.38,86.19,12.189999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0649,Infrastructure,24357,729.21,258,8,Good,Contractor_E,Roofing,71.81,58.02,13.79,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0650,Commercial,15898,554.49,224,4,Good,Contractor_E,Structure,93.35,87.94,5.409999999999997,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0651,Residential,7138,144.44,67,3,Good,Contractor_B,Roofing,71.42,61.52,9.899999999999999,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0652,Industrial,7070,160.28,264,4,Poor,Contractor_A,Foundation,22.66,8.01,14.65,Delayed,Low (0-5 days),1,Moderate Delay,Very High,Medium Risk
+P0653,Industrial,3749,92.63,147,6,Moderate,Contractor_E,Electrical,99.74,91.96,7.780000000000001,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0654,Industrial,9610,241.89,36,8,Good,Contractor_A,Finishing,27.92,9.73,18.19,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0655,Commercial,40863,1021.06,90,9,Good,Contractor_B,Structure,74.61,57.61,17.0,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0656,Residential,14105,471.52,288,5,Good,Contractor_A,Foundation,40.23,33.57,6.659999999999997,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0657,Commercial,12615,380.2,26,8,Good,Contractor_C,Finishing,51.36,30.82,20.54,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0658,Commercial,39562,1120.97,122,7,Moderate,Contractor_B,Finishing,71.67,52.29,19.380000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0659,Industrial,23411,544.52,212,9,Poor,Contractor_B,Finishing,54.92,25.56,29.360000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0660,Industrial,39025,1248.97,260,6,Moderate,Contractor_E,Roofing,40.04,21.75,18.29,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0661,Commercial,33056,1131.71,81,5,Good,Contractor_E,Roofing,46.76,31.11,15.649999999999999,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0662,Infrastructure,13095,418.52,36,1,Good,Contractor_E,Roofing,47.32,36.61,10.71,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0663,Industrial,2469,44.51,190,9,Good,Contractor_C,Roofing,96.75,81.47,15.280000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0664,Residential,44253,1275.32,44,8,Good,Contractor_C,Foundation,83.89,56.1,27.79,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0665,Residential,17775,335.4,270,3,Good,Contractor_D,Roofing,56.68,48.26,8.420000000000002,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0666,Residential,4970,111.23,272,7,Good,Contractor_B,Structure,35.99,29.72,6.270000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0667,Residential,10725,203.9,226,9,Good,Contractor_E,Finishing,84.88,80.7,4.179999999999993,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0668,Residential,42824,1210.4,48,6,Moderate,Contractor_B,Foundation,32.57,14.02,18.55,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0669,Residential,42474,1260.29,136,5,Moderate,Contractor_A,Roofing,36.84,21.22,15.620000000000005,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0670,Commercial,43259,862.86,163,5,Good,Contractor_C,Finishing,49.28,36.99,12.29,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0671,Residential,23696,581.15,44,9,Moderate,Contractor_D,Foundation,90.43,72.1,18.330000000000013,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0672,Infrastructure,40787,1050.51,175,8,Good,Contractor_A,Finishing,30.54,14.89,15.649999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0673,Residential,14169,343.94,92,9,Good,Contractor_B,Foundation,29.78,8.37,21.410000000000004,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0674,Industrial,37880,759.78,139,6,Moderate,Contractor_C,Electrical,59.52,42.48,17.040000000000006,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0675,Commercial,45641,1146.6,112,7,Good,Contractor_E,Foundation,42.11,28.89,13.219999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0676,Infrastructure,48820,1502.19,105,6,Poor,Contractor_A,Roofing,65.5,43.96,21.54,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0677,Residential,47914,920.29,137,8,Good,Contractor_C,Finishing,56.13,46.43,9.700000000000003,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0678,Commercial,38506,745.59,252,10,Moderate,Contractor_B,Finishing,54.8,30.87,23.929999999999996,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0679,Infrastructure,16077,386.35,218,14,Moderate,Contractor_B,Finishing,28.96,0.04,28.92,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0680,Infrastructure,22973,781.3,225,11,Moderate,Contractor_A,Structure,31.28,11.42,19.86,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0681,Infrastructure,29125,855.28,166,15,Moderate,Contractor_A,Structure,85.69,45.48,40.21,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0682,Commercial,16004,472.72,290,6,Moderate,Contractor_A,Roofing,90.87,84.42,6.450000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0683,Residential,24589,593.89,158,10,Moderate,Contractor_D,Electrical,38.77,19.93,18.840000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0684,Industrial,36987,1039.05,200,4,Good,Contractor_E,Structure,29.08,26.94,2.139999999999997,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0685,Infrastructure,802,14.57,49,5,Good,Contractor_C,Foundation,24.27,9.17,15.1,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0686,Industrial,31963,920.97,76,7,Moderate,Contractor_B,Roofing,68.66,59.38,9.279999999999994,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0687,Industrial,45412,1522.48,251,11,Moderate,Contractor_B,Electrical,77.23,49.38,27.85,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0688,Commercial,29759,845.56,165,5,Poor,Contractor_E,Foundation,49.82,25.29,24.53,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0689,Infrastructure,43323,1423.29,67,8,Good,Contractor_A,Finishing,74.37,56.79,17.580000000000005,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0690,Residential,37708,1142.84,213,9,Good,Contractor_A,Structure,77.04,65.09,11.950000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0691,Commercial,31159,624.72,243,15,Moderate,Contractor_B,Foundation,94.83,63.75,31.08,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0692,Commercial,36340,1211.64,155,6,Poor,Contractor_E,Electrical,25.19,2.55,22.64,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0693,Industrial,32390,619.61,41,6,Poor,Contractor_B,Roofing,35.38,3.3,32.080000000000005,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0694,Residential,14098,381.74,25,7,Good,Contractor_A,Foundation,25.48,7.99,17.490000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0695,Residential,47555,970.9,223,6,Good,Contractor_C,Roofing,89.44,81.35,8.090000000000003,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0696,Industrial,47233,859.59,258,4,Good,Contractor_A,Finishing,83.41,72.02,11.39,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0697,Commercial,20008,503.69,204,3,Good,Contractor_C,Electrical,65.97,58.3,7.670000000000002,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0698,Industrial,42787,984.77,239,8,Poor,Contractor_D,Electrical,26.69,3.56,23.130000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0699,Residential,13880,364.52,135,8,Good,Contractor_E,Structure,41.86,28.02,13.84,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0700,Commercial,27484,764.4,68,4,Good,Contractor_D,Electrical,43.82,32.74,11.079999999999998,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0701,Industrial,45133,845.95,192,5,Good,Contractor_A,Foundation,64.86,55.02,9.839999999999996,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0702,Residential,8625,173.29,101,11,Good,Contractor_E,Foundation,40.64,16.27,24.37,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0703,Commercial,36559,1005.26,64,7,Moderate,Contractor_A,Foundation,25.84,7.61,18.23,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0704,Residential,4533,108.04,39,10,Good,Contractor_E,Finishing,78.46,60.2,18.25999999999999,Delayed,Moderate (6-10 days),2,Moderate Delay,Low,High Risk
+P0705,Residential,38373,1166.38,240,9,Good,Contractor_E,Electrical,43.93,29.06,14.870000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0706,Infrastructure,17587,511.59,142,8,Poor,Contractor_A,Electrical,56.19,34.87,21.32,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0707,Commercial,41401,1340.37,253,8,Good,Contractor_A,Foundation,30.21,22.76,7.449999999999999,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0708,Infrastructure,6204,184.71,240,11,Moderate,Contractor_E,Structure,84.2,57.73,26.470000000000006,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0709,Commercial,8348,211.28,22,12,Good,Contractor_E,Structure,65.24,40.84,24.39999999999999,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0710,Industrial,22092,650.4,201,8,Moderate,Contractor_A,Electrical,92.13,84.47,7.659999999999997,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0711,Infrastructure,46243,1048.86,225,8,Good,Contractor_A,Electrical,59.64,43.4,16.240000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0712,Industrial,7424,172.29,59,6,Good,Contractor_B,Roofing,95.31,83.62,11.689999999999998,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0713,Commercial,27708,870.38,78,13,Good,Contractor_B,Electrical,91.35,65.6,25.75,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0714,Commercial,20114,514.7,81,4,Good,Contractor_B,Foundation,66.12,51.58,14.540000000000006,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0715,Commercial,988,31.19,151,12,Good,Contractor_D,Finishing,94.71,75.76,18.94999999999999,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0716,Infrastructure,40382,1291.46,79,4,Good,Contractor_E,Electrical,45.85,46.75,-0.8999999999999986,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0717,Infrastructure,26423,860.82,141,12,Moderate,Contractor_C,Electrical,49.25,36.07,13.18,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0718,Infrastructure,49008,1645.83,126,9,Poor,Contractor_D,Foundation,23.64,1.5,22.14,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0719,Residential,36441,922.93,115,10,Good,Contractor_E,Roofing,67.14,52.02,15.119999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0720,Industrial,29665,694.78,254,10,Good,Contractor_C,Electrical,77.75,56.75,21.0,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0721,Infrastructure,2167,60.45,81,8,Moderate,Contractor_B,Structure,81.88,60.3,21.58,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0722,Residential,26713,649.39,275,6,Moderate,Contractor_C,Structure,31.99,4.9,27.089999999999996,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0723,Residential,4614,130.2,68,11,Good,Contractor_A,Structure,55.53,42.33,13.200000000000003,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0724,Industrial,36821,1104.44,178,8,Good,Contractor_A,Finishing,34.15,21.54,12.61,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0725,Industrial,8261,245.38,143,8,Good,Contractor_E,Finishing,72.97,63.2,9.769999999999996,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0726,Infrastructure,31616,770.4,226,10,Good,Contractor_D,Electrical,32.64,16.47,16.17,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0727,Residential,34268,714.03,67,9,Poor,Contractor_B,Electrical,92.33,53.83,38.5,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0728,Infrastructure,48906,1238.25,155,8,Moderate,Contractor_E,Electrical,38.45,12.38,26.07,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0729,Residential,25926,529.52,220,3,Moderate,Contractor_B,Finishing,43.31,33.54,9.770000000000003,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0730,Residential,18272,605.38,269,9,Good,Contractor_A,Electrical,88.07,70.26,17.809999999999988,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0731,Residential,38718,924.58,228,10,Good,Contractor_D,Foundation,56.68,40.6,16.08,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0732,Infrastructure,4212,86.88,230,6,Poor,Contractor_D,Roofing,21.92,6.3,15.620000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0733,Industrial,1867,34.41,211,6,Good,Contractor_A,Structure,59.57,50.5,9.07,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0734,Industrial,41457,1201.38,63,6,Good,Contractor_C,Structure,26.76,15.73,11.030000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0735,Commercial,42281,1218.85,48,7,Good,Contractor_D,Foundation,98.83,82.88,15.950000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0736,Infrastructure,26700,635.2,78,11,Moderate,Contractor_C,Electrical,67.05,46.45,20.599999999999994,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0737,Commercial,4226,81.22,90,7,Good,Contractor_B,Finishing,40.52,26.84,13.680000000000003,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0738,Infrastructure,24116,602.02,111,8,Good,Contractor_D,Electrical,65.1,50.85,14.249999999999993,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0739,Commercial,28223,657.33,284,7,Poor,Contractor_A,Electrical,26.15,0.13,26.02,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0740,Commercial,38074,1123.6,239,9,Moderate,Contractor_C,Structure,83.99,63.94,20.049999999999997,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0741,Commercial,35458,1003.4,234,3,Good,Contractor_B,Structure,94.03,81.36,12.670000000000002,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0742,Commercial,9608,232.5,296,4,Moderate,Contractor_B,Finishing,89.96,68.0,21.959999999999994,Delayed,Low (0-5 days),0,Severe Delay,Very High,Low Risk
+P0743,Industrial,12678,275.17,83,14,Good,Contractor_D,Structure,47.34,25.4,21.940000000000005,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0744,Industrial,36143,1257.65,264,12,Good,Contractor_D,Electrical,46.06,23.21,22.85,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0745,Residential,31824,818.45,81,12,Moderate,Contractor_E,Foundation,22.81,0.0,22.81,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0746,Infrastructure,38860,1154.17,189,4,Good,Contractor_E,Finishing,72.11,61.13,10.979999999999997,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0747,Commercial,18324,373.62,288,9,Good,Contractor_D,Foundation,62.79,45.7,17.089999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0748,Industrial,45860,1204.06,286,9,Moderate,Contractor_E,Electrical,56.75,47.36,9.39,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0749,Infrastructure,9427,174.1,73,9,Poor,Contractor_A,Finishing,92.61,66.14,26.47,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0750,Industrial,28644,761.72,35,5,Good,Contractor_A,Foundation,33.43,21.19,12.239999999999998,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0751,Residential,31510,1083.58,27,12,Good,Contractor_E,Finishing,20.77,0.0,20.77,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0752,Infrastructure,22943,562.83,123,11,Good,Contractor_D,Electrical,25.87,13.02,12.850000000000001,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0753,Industrial,14937,278.77,78,3,Good,Contractor_A,Finishing,37.87,30.44,7.429999999999996,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0754,Commercial,44798,829.94,59,1,Good,Contractor_B,Electrical,22.66,12.08,10.58,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0755,Residential,40278,990.67,256,9,Good,Contractor_D,Finishing,60.23,50.61,9.619999999999997,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0756,Infrastructure,11707,242.57,113,9,Moderate,Contractor_C,Finishing,45.13,24.67,20.46,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0757,Industrial,26037,479.0,241,6,Good,Contractor_C,Structure,34.44,24.7,9.739999999999998,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0758,Industrial,36257,1118.73,223,12,Good,Contractor_D,Electrical,80.01,57.62,22.390000000000008,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0759,Infrastructure,12540,323.47,157,10,Good,Contractor_E,Roofing,36.36,18.07,18.29,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0760,Infrastructure,42486,973.66,226,8,Good,Contractor_A,Finishing,75.01,59.87,15.140000000000008,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0761,Residential,23112,769.66,100,8,Poor,Contractor_A,Foundation,47.94,21.34,26.599999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0762,Commercial,28941,578.08,237,7,Good,Contractor_D,Structure,60.95,58.83,2.1200000000000045,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0763,Residential,6971,238.76,21,10,Poor,Contractor_B,Structure,94.71,59.09,35.61999999999999,Delayed,Moderate (6-10 days),3,Severe Delay,Low,High Risk
+P0764,Industrial,36131,843.2,197,11,Poor,Contractor_E,Finishing,22.99,0.0,22.99,Delayed,High (11-15 days),2,Severe Delay,High,High Risk
+P0765,Residential,43961,1455.23,298,7,Moderate,Contractor_B,Roofing,60.02,40.69,19.330000000000005,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0766,Industrial,27023,763.4,165,8,Good,Contractor_D,Structure,88.35,78.46,9.89,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0767,Infrastructure,31848,1020.86,243,13,Poor,Contractor_D,Electrical,67.04,35.33,31.710000000000008,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0768,Infrastructure,1677,58.24,81,9,Good,Contractor_B,Finishing,42.15,25.16,16.99,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0769,Commercial,5260,120.47,258,2,Good,Contractor_C,Finishing,51.81,52.37,-0.5599999999999952,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0770,Infrastructure,33279,1142.78,214,6,Good,Contractor_D,Roofing,74.42,71.19,3.230000000000004,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0771,Residential,22136,545.01,185,3,Good,Contractor_E,Electrical,91.26,84.85,6.410000000000011,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0772,Infrastructure,16853,413.8,241,5,Good,Contractor_B,Electrical,23.29,10.75,12.54,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0773,Residential,12056,286.77,80,12,Good,Contractor_C,Roofing,25.72,7.64,18.08,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0774,Commercial,28098,764.38,148,7,Good,Contractor_B,Foundation,46.0,36.59,9.409999999999997,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0775,Infrastructure,12063,248.74,192,8,Moderate,Contractor_C,Electrical,38.62,17.47,21.15,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0776,Residential,47319,1297.16,175,5,Good,Contractor_C,Foundation,41.19,29.06,12.129999999999999,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0777,Residential,44290,1205.09,129,9,Good,Contractor_E,Foundation,37.7,23.04,14.660000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0778,Industrial,8734,270.34,288,8,Poor,Contractor_D,Finishing,35.67,9.6,26.07,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0779,Industrial,26019,837.08,297,11,Good,Contractor_C,Finishing,30.45,11.29,19.16,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0780,Industrial,27466,700.04,93,5,Moderate,Contractor_D,Structure,94.72,76.5,18.22,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0781,Industrial,16673,385.81,226,7,Poor,Contractor_E,Finishing,31.54,14.4,17.14,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0782,Industrial,27487,615.95,298,7,Good,Contractor_D,Electrical,36.35,16.26,20.09,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0783,Commercial,13678,291.46,223,3,Good,Contractor_A,Electrical,39.7,33.83,5.8700000000000045,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0784,Commercial,39838,756.13,180,10,Poor,Contractor_C,Foundation,94.64,63.99,30.65,Delayed,Moderate (6-10 days),2,Severe Delay,High,High Risk
+P0785,Residential,25096,597.83,47,7,Poor,Contractor_E,Electrical,80.46,55.93,24.529999999999994,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0786,Infrastructure,33674,760.84,276,5,Moderate,Contractor_B,Finishing,83.18,71.61,11.570000000000007,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0787,Industrial,42474,1462.34,184,7,Good,Contractor_E,Finishing,28.38,16.0,12.379999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0788,Commercial,4931,135.51,82,5,Poor,Contractor_C,Finishing,86.9,73.38,13.52000000000001,Delayed,Low (0-5 days),2,Moderate Delay,Medium,High Risk
+P0789,Commercial,28264,675.61,41,7,Good,Contractor_E,Roofing,52.66,40.35,12.309999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,Low,Medium Risk
+P0790,Infrastructure,22127,616.63,89,11,Good,Contractor_B,Electrical,41.03,25.68,15.350000000000001,Delayed,High (11-15 days),2,Moderate Delay,Medium,High Risk
+P0791,Residential,39810,810.78,115,4,Good,Contractor_A,Structure,66.06,66.05,0.010000000000005116,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0792,Industrial,9406,240.31,182,10,Good,Contractor_C,Electrical,85.77,70.24,15.530000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0793,Industrial,37414,1071.76,98,9,Moderate,Contractor_C,Electrical,82.29,62.4,19.890000000000008,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0794,Industrial,45314,1192.27,24,10,Moderate,Contractor_E,Roofing,91.2,56.4,34.800000000000004,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0795,Residential,45879,1139.19,139,10,Moderate,Contractor_D,Electrical,94.25,79.85,14.400000000000006,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0796,Infrastructure,13576,473.74,197,7,Good,Contractor_D,Foundation,39.05,27.38,11.669999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0797,Infrastructure,49792,1641.41,195,5,Moderate,Contractor_B,Finishing,53.91,45.81,8.099999999999994,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0798,Industrial,38150,1091.01,236,7,Moderate,Contractor_A,Finishing,21.17,14.26,6.910000000000002,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0799,Industrial,47381,1311.48,75,5,Good,Contractor_A,Roofing,90.35,76.31,14.039999999999992,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0800,Infrastructure,46913,1339.42,206,3,Poor,Contractor_E,Finishing,32.37,12.52,19.849999999999998,Delayed,Low (0-5 days),1,Moderate Delay,Very High,Medium Risk
+P0801,Industrial,6512,139.5,251,3,Moderate,Contractor_E,Foundation,88.92,76.66,12.260000000000005,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0802,Residential,7651,189.11,274,9,Moderate,Contractor_D,Roofing,46.35,34.43,11.920000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0803,Industrial,28711,536.06,123,10,Good,Contractor_A,Structure,49.45,34.03,15.420000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0804,Industrial,27617,720.37,96,8,Moderate,Contractor_A,Finishing,23.13,1.22,21.91,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0805,Commercial,36878,1004.24,249,6,Poor,Contractor_A,Electrical,46.15,20.39,25.759999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0806,Industrial,43152,943.81,277,5,Good,Contractor_B,Foundation,91.07,80.43,10.639999999999986,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0807,Infrastructure,7394,254.27,283,7,Moderate,Contractor_B,Foundation,22.04,1.71,20.33,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0808,Infrastructure,13967,467.35,201,7,Good,Contractor_E,Finishing,52.51,36.67,15.839999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0809,Commercial,31510,954.01,275,8,Moderate,Contractor_D,Structure,22.51,4.99,17.520000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0810,Residential,49757,1346.8,57,9,Moderate,Contractor_C,Electrical,49.67,23.64,26.03,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0811,Infrastructure,43141,1414.57,195,11,Moderate,Contractor_D,Structure,33.81,7.31,26.500000000000004,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0812,Infrastructure,12789,258.61,46,6,Poor,Contractor_B,Structure,40.18,11.31,28.869999999999997,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0813,Residential,45476,1429.7,295,8,Good,Contractor_B,Finishing,90.21,72.22,17.989999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0814,Infrastructure,44096,887.3,159,9,Good,Contractor_E,Electrical,54.88,37.01,17.870000000000005,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0815,Infrastructure,23671,745.67,110,7,Moderate,Contractor_C,Finishing,41.9,28.76,13.139999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0816,Industrial,35405,803.27,80,6,Good,Contractor_A,Finishing,67.15,61.48,5.670000000000009,On Time,Moderate (6-10 days),1,On Time,Medium,Medium Risk
+P0817,Industrial,21329,701.95,182,8,Good,Contractor_C,Foundation,31.37,19.27,12.100000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0818,Commercial,34554,1176.52,162,9,Good,Contractor_C,Finishing,40.75,33.16,7.590000000000003,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0819,Residential,48978,1005.5,272,8,Good,Contractor_C,Roofing,63.7,51.28,12.420000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0820,Commercial,44639,1154.61,288,13,Moderate,Contractor_E,Electrical,39.0,14.54,24.46,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0821,Infrastructure,49213,1706.55,206,9,Moderate,Contractor_B,Foundation,74.33,49.33,25.0,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0822,Residential,30234,792.67,105,9,Good,Contractor_A,Electrical,59.32,42.09,17.229999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0823,Commercial,7552,246.8,185,11,Good,Contractor_C,Foundation,81.76,60.37,21.390000000000008,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0824,Commercial,4154,116.35,133,7,Good,Contractor_A,Roofing,95.86,87.81,8.049999999999997,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0825,Industrial,23986,584.79,202,7,Good,Contractor_C,Finishing,29.26,11.11,18.150000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0826,Infrastructure,19243,439.86,226,6,Good,Contractor_B,Foundation,46.77,33.3,13.470000000000006,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0827,Commercial,48868,1048.45,275,6,Good,Contractor_A,Foundation,45.56,34.42,11.14,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0828,Commercial,24989,773.42,254,12,Moderate,Contractor_D,Foundation,32.09,18.12,13.970000000000002,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0829,Industrial,9136,224.48,22,8,Moderate,Contractor_B,Roofing,84.82,54.09,30.72999999999999,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0830,Commercial,6941,185.27,227,8,Good,Contractor_A,Electrical,80.79,59.92,20.870000000000005,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0831,Residential,25111,662.17,216,3,Moderate,Contractor_C,Roofing,58.75,49.19,9.560000000000002,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0832,Commercial,42935,1194.18,144,11,Poor,Contractor_C,Foundation,63.02,34.36,28.660000000000004,Delayed,High (11-15 days),2,Severe Delay,High,High Risk
+P0833,Residential,12649,413.81,157,9,Good,Contractor_B,Foundation,24.76,13.84,10.920000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0834,Residential,35066,1215.83,44,12,Good,Contractor_B,Finishing,64.44,48.52,15.919999999999995,Delayed,High (11-15 days),2,Moderate Delay,Low,High Risk
+P0835,Commercial,42868,1068.65,87,8,Moderate,Contractor_C,Roofing,83.31,66.48,16.83,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0836,Commercial,22175,711.1,80,5,Good,Contractor_A,Roofing,65.91,46.91,19.0,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0837,Infrastructure,5995,185.83,48,6,Moderate,Contractor_D,Structure,41.22,16.06,25.16,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0838,Commercial,43168,1197.91,38,5,Moderate,Contractor_E,Electrical,73.4,58.2,15.200000000000003,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0839,Industrial,14173,485.46,190,7,Good,Contractor_B,Structure,48.92,41.31,7.609999999999999,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0840,Industrial,11630,248.98,93,10,Moderate,Contractor_C,Structure,63.59,30.75,32.84,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0841,Residential,23168,460.06,80,6,Moderate,Contractor_A,Electrical,59.01,46.91,12.100000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0842,Industrial,15722,511.24,172,6,Good,Contractor_B,Finishing,50.49,45.07,5.420000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0843,Residential,24169,615.48,295,8,Good,Contractor_A,Finishing,77.51,67.66,9.850000000000009,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0844,Infrastructure,34568,1119.95,67,7,Poor,Contractor_B,Electrical,90.71,70.76,19.94999999999999,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0845,Residential,23753,788.18,230,9,Poor,Contractor_C,Electrical,20.42,0.0,20.42,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0846,Commercial,9935,189.38,158,3,Moderate,Contractor_A,Roofing,94.69,87.8,6.890000000000001,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0847,Residential,29052,959.27,129,7,Poor,Contractor_C,Roofing,60.92,42.93,17.990000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0848,Infrastructure,37884,970.64,202,11,Good,Contractor_A,Roofing,76.06,52.92,23.14,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0849,Industrial,16893,450.66,47,13,Good,Contractor_B,Roofing,88.45,68.94,19.510000000000005,Delayed,High (11-15 days),2,Moderate Delay,Low,High Risk
+P0850,Industrial,11117,318.53,216,6,Good,Contractor_E,Foundation,57.37,49.08,8.29,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0851,Residential,39020,1316.87,210,4,Good,Contractor_E,Foundation,86.8,85.19,1.6099999999999994,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0852,Industrial,10352,189.7,70,9,Moderate,Contractor_D,Finishing,34.21,12.76,21.450000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0853,Residential,31901,832.82,168,5,Poor,Contractor_D,Foundation,32.73,17.85,14.879999999999995,Delayed,Low (0-5 days),1,Moderate Delay,High,Medium Risk
+P0854,Infrastructure,6795,201.75,287,7,Moderate,Contractor_C,Foundation,72.6,56.72,15.879999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0855,Residential,36493,1105.23,69,7,Moderate,Contractor_A,Roofing,89.61,68.42,21.189999999999998,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0856,Residential,34584,1029.67,265,11,Good,Contractor_D,Roofing,91.39,67.88,23.510000000000005,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0857,Residential,45605,925.12,132,8,Good,Contractor_B,Electrical,71.5,62.44,9.060000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0858,Commercial,40075,925.32,189,6,Good,Contractor_E,Roofing,62.04,44.95,17.089999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0859,Industrial,36951,890.45,185,7,Moderate,Contractor_A,Electrical,46.51,35.04,11.469999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0860,Residential,7727,244.76,33,5,Good,Contractor_E,Electrical,98.4,85.13,13.27000000000001,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0861,Infrastructure,32410,736.97,222,5,Poor,Contractor_A,Foundation,45.58,17.26,28.319999999999997,Delayed,Low (0-5 days),1,Severe Delay,Very High,Medium Risk
+P0862,Commercial,36541,788.63,208,7,Poor,Contractor_D,Roofing,79.53,42.52,37.01,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0863,Industrial,23884,818.66,174,6,Good,Contractor_D,Foundation,62.56,45.13,17.43,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0864,Commercial,645,11.71,74,10,Good,Contractor_C,Roofing,68.68,51.12,17.56000000000001,Delayed,Moderate (6-10 days),2,Moderate Delay,Medium,High Risk
+P0865,Commercial,38278,1338.31,201,8,Moderate,Contractor_A,Foundation,51.48,31.91,19.569999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0866,Industrial,16535,487.88,229,10,Good,Contractor_B,Foundation,97.19,78.78,18.409999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0867,Residential,3540,113.58,94,5,Moderate,Contractor_D,Foundation,65.73,49.42,16.310000000000002,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0868,Residential,42922,987.57,296,7,Moderate,Contractor_C,Finishing,95.02,84.56,10.459999999999994,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0869,Infrastructure,26660,486.37,152,9,Good,Contractor_D,Foundation,20.61,5.94,14.669999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0870,Infrastructure,18133,553.85,78,5,Good,Contractor_E,Structure,65.81,57.48,8.330000000000005,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0871,Commercial,29844,960.39,201,9,Good,Contractor_D,Structure,77.37,68.71,8.66000000000001,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0872,Commercial,17514,535.72,83,7,Poor,Contractor_A,Structure,79.61,55.71,23.9,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0873,Industrial,15496,316.56,279,6,Good,Contractor_C,Electrical,92.4,81.82,10.580000000000013,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0874,Commercial,49604,1528.21,212,12,Poor,Contractor_A,Foundation,20.35,0.0,20.35,Delayed,High (11-15 days),2,Severe Delay,Very High,High Risk
+P0875,Residential,42121,1308.77,162,11,Moderate,Contractor_B,Structure,20.03,0.0,20.03,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0876,Residential,12195,356.04,123,5,Moderate,Contractor_B,Electrical,57.78,45.67,12.11,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0877,Industrial,3352,103.99,233,5,Good,Contractor_D,Structure,22.34,10.82,11.52,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0878,Industrial,16514,534.73,261,5,Moderate,Contractor_C,Roofing,97.96,85.11,12.849999999999994,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0879,Residential,27542,783.05,228,8,Moderate,Contractor_C,Finishing,37.77,18.86,18.910000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0880,Residential,34255,668.19,112,5,Good,Contractor_C,Foundation,57.81,49.28,8.530000000000001,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0881,Residential,40890,1074.98,161,10,Moderate,Contractor_C,Finishing,24.89,3.88,21.01,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0882,Industrial,24211,467.76,131,12,Moderate,Contractor_D,Finishing,61.76,44.16,17.6,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0883,Residential,26622,663.64,78,7,Poor,Contractor_A,Roofing,50.4,23.93,26.47,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0884,Residential,9660,240.74,62,8,Good,Contractor_D,Roofing,23.57,0.0,23.57,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0885,Infrastructure,27713,529.93,226,11,Moderate,Contractor_A,Roofing,46.81,24.47,22.340000000000003,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0886,Residential,39920,955.28,287,10,Good,Contractor_E,Electrical,51.31,40.48,10.830000000000005,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0887,Industrial,7921,157.52,137,8,Moderate,Contractor_E,Structure,99.19,74.81,24.379999999999995,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0888,Residential,21900,695.11,39,11,Poor,Contractor_A,Foundation,36.63,0.0,36.63,Delayed,High (11-15 days),3,Severe Delay,Low,High Risk
+P0889,Residential,34037,1161.03,241,9,Good,Contractor_D,Roofing,63.58,46.24,17.339999999999996,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0890,Residential,18227,350.49,185,11,Good,Contractor_B,Foundation,98.99,78.79,20.19999999999999,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0891,Industrial,47382,1622.22,150,10,Moderate,Contractor_D,Foundation,83.36,68.99,14.370000000000005,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0892,Infrastructure,4858,130.6,175,5,Good,Contractor_B,Foundation,99.47,88.73,10.739999999999995,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0893,Infrastructure,28982,669.27,203,13,Good,Contractor_D,Roofing,97.46,71.04,26.419999999999987,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0894,Commercial,32617,629.73,109,6,Good,Contractor_C,Roofing,59.16,51.68,7.479999999999997,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0895,Industrial,23664,627.35,113,9,Poor,Contractor_C,Structure,75.71,59.29,16.419999999999995,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0896,Residential,32410,1021.13,32,4,Poor,Contractor_E,Roofing,28.84,1.97,26.87,Delayed,Low (0-5 days),2,Severe Delay,Low,High Risk
+P0897,Commercial,32996,990.56,249,10,Moderate,Contractor_E,Roofing,55.29,35.13,20.159999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0898,Infrastructure,44811,844.86,45,5,Moderate,Contractor_A,Foundation,84.72,73.96,10.760000000000005,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0899,Residential,29871,574.7,94,9,Moderate,Contractor_B,Structure,60.43,36.82,23.61,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0900,Residential,38967,968.28,169,7,Good,Contractor_C,Finishing,76.22,63.07,13.149999999999999,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0901,Residential,18125,417.24,167,11,Good,Contractor_D,Roofing,79.66,70.49,9.170000000000002,On Time,High (11-15 days),1,On Time,High,Medium Risk
+P0902,Residential,34393,754.94,27,7,Moderate,Contractor_A,Roofing,40.28,7.89,32.39,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0903,Residential,11293,257.22,48,6,Poor,Contractor_D,Finishing,90.06,59.54,30.520000000000003,Delayed,Moderate (6-10 days),2,Severe Delay,Low,High Risk
+P0904,Industrial,31507,997.49,228,12,Moderate,Contractor_C,Foundation,56.79,43.24,13.549999999999997,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0905,Commercial,26266,887.71,147,9,Moderate,Contractor_C,Structure,36.81,14.22,22.590000000000003,Delayed,Moderate (6-10 days),0,Severe Delay,High,Low Risk
+P0906,Infrastructure,40032,996.27,135,7,Moderate,Contractor_C,Foundation,89.23,69.78,19.450000000000003,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0907,Infrastructure,12823,428.34,163,8,Good,Contractor_C,Electrical,53.43,34.35,19.08,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0908,Commercial,46299,1086.43,254,7,Moderate,Contractor_D,Roofing,80.02,67.64,12.379999999999995,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0909,Commercial,47320,1235.02,26,8,Good,Contractor_A,Electrical,63.84,40.15,23.690000000000005,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0910,Commercial,45908,1002.75,64,8,Good,Contractor_C,Roofing,50.55,35.25,15.299999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0911,Industrial,8343,241.01,258,5,Moderate,Contractor_E,Electrical,84.79,75.07,9.720000000000013,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0912,Commercial,14710,509.59,174,6,Moderate,Contractor_A,Finishing,66.76,57.09,9.670000000000002,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0913,Industrial,16956,479.17,200,7,Good,Contractor_E,Roofing,51.24,50.26,0.980000000000004,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0914,Commercial,31867,767.45,234,9,Moderate,Contractor_D,Roofing,28.77,7.57,21.2,Delayed,Moderate (6-10 days),0,Severe Delay,Very High,Low Risk
+P0915,Industrial,10606,307.71,107,4,Moderate,Contractor_C,Electrical,91.64,80.97,10.670000000000002,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0916,Commercial,38457,772.59,275,8,Moderate,Contractor_A,Structure,22.84,19.49,3.3500000000000014,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0917,Commercial,2972,98.39,92,5,Poor,Contractor_C,Electrical,89.05,66.93,22.11999999999999,Delayed,Low (0-5 days),2,Severe Delay,Medium,High Risk
+P0918,Infrastructure,7204,191.28,198,11,Good,Contractor_C,Roofing,48.8,26.51,22.289999999999996,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0919,Infrastructure,4213,108.02,231,8,Poor,Contractor_A,Roofing,71.15,53.68,17.470000000000006,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0920,Residential,5551,155.2,253,6,Moderate,Contractor_C,Structure,93.78,83.34,10.439999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0921,Infrastructure,11256,322.16,258,10,Moderate,Contractor_C,Foundation,32.14,9.94,22.200000000000003,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0922,Commercial,2975,57.18,242,10,Moderate,Contractor_B,Structure,65.36,58.15,7.210000000000001,On Time,Moderate (6-10 days),1,On Time,Very High,Medium Risk
+P0923,Infrastructure,36878,1091.75,138,4,Good,Contractor_B,Foundation,81.15,77.82,3.3300000000000125,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0924,Infrastructure,4755,105.15,283,13,Good,Contractor_A,Roofing,80.61,59.38,21.229999999999997,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0925,Commercial,14984,451.58,226,11,Moderate,Contractor_A,Finishing,62.05,43.36,18.689999999999998,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0926,Residential,35003,1119.5,114,12,Good,Contractor_C,Finishing,69.98,57.99,11.990000000000002,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0927,Commercial,8758,277.34,241,7,Moderate,Contractor_E,Electrical,80.6,71.35,9.25,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0928,Industrial,41247,1129.86,295,12,Good,Contractor_A,Structure,87.28,77.34,9.939999999999998,On Time,High (11-15 days),1,On Time,Very High,Medium Risk
+P0929,Industrial,35696,958.18,250,9,Good,Contractor_C,Structure,80.95,70.62,10.329999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0930,Commercial,45613,931.82,138,18,Good,Contractor_E,Finishing,48.32,16.04,32.28,Delayed,Very High (16+ days),1,Severe Delay,High,Medium Risk
+P0931,Residential,40694,1268.87,287,5,Moderate,Contractor_B,Foundation,99.74,75.43,24.309999999999988,Delayed,Low (0-5 days),0,Severe Delay,Very High,Low Risk
+P0932,Infrastructure,9033,204.27,292,5,Good,Contractor_A,Structure,54.76,47.08,7.68,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0933,Infrastructure,33081,874.79,83,10,Moderate,Contractor_C,Foundation,21.96,0.0,21.96,Delayed,Moderate (6-10 days),2,Severe Delay,Medium,High Risk
+P0934,Industrial,5749,131.26,30,10,Good,Contractor_B,Foundation,49.01,31.51,17.499999999999996,Delayed,Moderate (6-10 days),2,Moderate Delay,Low,High Risk
+P0935,Residential,19701,399.44,117,10,Moderate,Contractor_D,Foundation,30.22,20.44,9.779999999999998,On Time,Moderate (6-10 days),1,On Time,High,Medium Risk
+P0936,Commercial,10186,292.36,90,6,Good,Contractor_B,Foundation,29.72,9.06,20.659999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0937,Residential,47377,896.55,77,9,Good,Contractor_C,Electrical,42.52,28.56,13.960000000000004,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0938,Infrastructure,32507,998.84,270,11,Moderate,Contractor_E,Electrical,24.27,0.0,24.27,Delayed,High (11-15 days),1,Severe Delay,Very High,Medium Risk
+P0939,Residential,1161,27.17,295,4,Moderate,Contractor_D,Finishing,75.08,63.29,11.79,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0940,Industrial,45343,816.28,69,3,Good,Contractor_D,Electrical,25.92,12.37,13.550000000000002,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0941,Commercial,30637,817.68,235,6,Poor,Contractor_D,Structure,36.26,10.49,25.769999999999996,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0942,Industrial,48056,903.28,71,9,Good,Contractor_A,Electrical,27.43,8.62,18.810000000000002,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0943,Industrial,43328,983.32,290,10,Good,Contractor_C,Structure,25.05,8.11,16.94,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0944,Infrastructure,49104,1474.03,103,7,Good,Contractor_D,Structure,41.42,23.5,17.92,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0945,Residential,11026,210.22,145,5,Good,Contractor_B,Foundation,65.75,60.3,5.450000000000003,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0946,Residential,3874,125.01,91,9,Good,Contractor_E,Finishing,97.17,73.57,23.60000000000001,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0947,Residential,26092,471.35,255,9,Good,Contractor_C,Foundation,90.04,80.08,9.960000000000008,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0948,Infrastructure,29482,654.38,75,11,Moderate,Contractor_B,Foundation,90.07,64.59,25.47999999999999,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0949,Infrastructure,707,21.63,129,7,Good,Contractor_A,Electrical,34.09,20.44,13.650000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0950,Industrial,35933,839.99,211,8,Moderate,Contractor_D,Electrical,41.19,32.34,8.849999999999994,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0951,Industrial,23697,467.59,112,12,Good,Contractor_B,Structure,26.11,0.56,25.55,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0952,Industrial,33900,817.8,75,4,Good,Contractor_C,Electrical,82.28,70.3,11.980000000000004,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0953,Residential,3583,80.96,79,4,Good,Contractor_B,Electrical,25.59,0.0,25.59,Delayed,Low (0-5 days),1,Severe Delay,Medium,Medium Risk
+P0954,Infrastructure,29828,964.22,157,10,Moderate,Contractor_A,Roofing,64.54,34.14,30.400000000000006,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0955,Commercial,46979,1095.88,58,7,Moderate,Contractor_E,Structure,39.83,19.42,20.409999999999997,Delayed,Moderate (6-10 days),1,Severe Delay,Medium,Medium Risk
+P0956,Commercial,43391,1362.99,47,9,Moderate,Contractor_D,Structure,39.48,6.21,33.269999999999996,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0957,Industrial,20603,683.23,68,5,Good,Contractor_C,Roofing,99.26,83.36,15.900000000000006,Delayed,Low (0-5 days),1,Moderate Delay,Medium,Medium Risk
+P0958,Residential,40391,1024.92,144,13,Moderate,Contractor_D,Structure,80.54,54.88,25.660000000000004,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0959,Residential,11254,376.66,32,10,Moderate,Contractor_D,Finishing,86.96,68.22,18.739999999999995,Delayed,Moderate (6-10 days),2,Moderate Delay,Low,High Risk
+P0960,Industrial,34947,853.21,55,9,Good,Contractor_D,Finishing,65.76,54.18,11.580000000000005,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0961,Residential,16401,564.02,120,8,Good,Contractor_B,Roofing,89.68,77.66,12.02000000000001,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0962,Industrial,33504,653.93,105,10,Good,Contractor_B,Electrical,71.64,57.92,13.719999999999999,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P0963,Residential,7946,235.83,23,9,Moderate,Contractor_E,Finishing,95.69,68.3,27.39,Delayed,Moderate (6-10 days),1,Severe Delay,Low,Medium Risk
+P0964,Commercial,37711,995.38,242,5,Good,Contractor_A,Roofing,42.51,28.15,14.36,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0965,Commercial,48731,1198.3,185,13,Moderate,Contractor_C,Finishing,67.63,38.81,28.819999999999993,Delayed,High (11-15 days),1,Severe Delay,High,Medium Risk
+P0966,Commercial,29801,856.96,297,5,Good,Contractor_B,Foundation,75.21,71.19,4.019999999999996,On Time,Low (0-5 days),0,On Time,Very High,Low Risk
+P0967,Industrial,26616,797.56,149,21,Good,Contractor_D,Roofing,51.43,15.31,36.12,Delayed,Very High (16+ days),1,Severe Delay,High,Medium Risk
+P0968,Commercial,41823,755.92,50,3,Good,Contractor_A,Structure,90.38,84.85,5.530000000000001,On Time,Low (0-5 days),1,On Time,Low,Medium Risk
+P0969,Industrial,19252,401.18,30,5,Moderate,Contractor_C,Finishing,98.38,84.39,13.989999999999995,Delayed,Low (0-5 days),1,Moderate Delay,Low,Medium Risk
+P0970,Commercial,32876,990.28,115,7,Good,Contractor_C,Structure,59.5,46.69,12.810000000000002,Delayed,Moderate (6-10 days),0,Moderate Delay,High,Low Risk
+P0971,Industrial,17169,503.54,209,6,Good,Contractor_C,Roofing,51.25,46.32,4.93,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0972,Infrastructure,33416,1150.27,211,6,Moderate,Contractor_C,Finishing,57.76,46.97,10.79,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0973,Industrial,13895,429.88,285,5,Good,Contractor_E,Structure,88.22,75.75,12.469999999999999,Delayed,Low (0-5 days),0,Moderate Delay,Very High,Low Risk
+P0974,Residential,20921,714.73,147,5,Good,Contractor_C,Electrical,71.64,60.85,10.79,Delayed,Low (0-5 days),0,Moderate Delay,High,Low Risk
+P0975,Residential,26842,803.74,257,7,Good,Contractor_A,Electrical,23.58,14.94,8.639999999999999,On Time,Moderate (6-10 days),0,On Time,Very High,Low Risk
+P0976,Commercial,5395,124.45,131,7,Good,Contractor_B,Foundation,63.37,61.0,2.3699999999999974,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0977,Industrial,11523,228.05,164,14,Good,Contractor_A,Roofing,21.38,4.06,17.32,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0978,Residential,11199,350.43,84,11,Good,Contractor_D,Structure,82.28,53.19,29.090000000000003,Delayed,High (11-15 days),2,Severe Delay,Medium,High Risk
+P0979,Commercial,10215,295.73,266,7,Good,Contractor_E,Foundation,46.26,30.93,15.329999999999998,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0980,Industrial,19669,370.15,242,7,Good,Contractor_E,Roofing,57.76,40.14,17.619999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0981,Commercial,16663,401.93,125,6,Poor,Contractor_D,Electrical,83.89,61.61,22.28,Delayed,Moderate (6-10 days),1,Severe Delay,High,Medium Risk
+P0982,Infrastructure,6282,215.26,200,6,Good,Contractor_A,Structure,23.72,16.48,7.239999999999998,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0983,Residential,23141,613.39,203,8,Good,Contractor_A,Finishing,32.68,16.15,16.53,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0984,Residential,19292,489.18,245,6,Good,Contractor_D,Electrical,51.84,36.43,15.410000000000004,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0985,Industrial,49992,1288.84,284,10,Good,Contractor_C,Finishing,38.39,25.79,12.600000000000001,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0986,Commercial,36085,777.67,297,6,Poor,Contractor_C,Finishing,47.03,29.6,17.43,Delayed,Moderate (6-10 days),1,Moderate Delay,Very High,Medium Risk
+P0987,Industrial,31182,756.73,108,13,Moderate,Contractor_B,Structure,99.85,82.0,17.849999999999994,Delayed,High (11-15 days),1,Moderate Delay,High,Medium Risk
+P0988,Commercial,48364,1174.61,195,5,Good,Contractor_A,Structure,86.03,82.22,3.8100000000000023,On Time,Low (0-5 days),0,On Time,High,Low Risk
+P0989,Residential,19380,366.09,37,11,Moderate,Contractor_A,Finishing,90.71,59.23,31.479999999999997,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0990,Infrastructure,38567,1197.45,125,7,Good,Contractor_D,Foundation,94.96,87.44,7.519999999999996,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0991,Infrastructure,43185,1083.1,290,7,Poor,Contractor_D,Finishing,47.27,20.11,27.160000000000004,Delayed,Moderate (6-10 days),1,Severe Delay,Very High,Medium Risk
+P0992,Industrial,18573,593.91,186,1,Poor,Contractor_C,Finishing,43.77,20.43,23.340000000000003,Delayed,Low (0-5 days),1,Severe Delay,High,Medium Risk
+P0993,Commercial,36535,1185.78,32,14,Moderate,Contractor_A,Structure,38.72,5.56,33.16,Delayed,High (11-15 days),2,Severe Delay,Low,High Risk
+P0994,Industrial,37674,813.91,51,3,Good,Contractor_A,Roofing,86.41,76.47,9.939999999999998,On Time,Low (0-5 days),1,On Time,Medium,Medium Risk
+P0995,Commercial,25337,739.21,59,7,Good,Contractor_E,Electrical,74.36,56.24,18.119999999999997,Delayed,Moderate (6-10 days),1,Moderate Delay,Medium,Medium Risk
+P0996,Residential,18326,477.0,167,7,Good,Contractor_B,Structure,38.89,31.26,7.629999999999999,On Time,Moderate (6-10 days),0,On Time,High,Low Risk
+P0997,Infrastructure,25481,839.92,237,14,Good,Contractor_B,Foundation,50.16,32.4,17.759999999999998,Delayed,High (11-15 days),1,Moderate Delay,Very High,Medium Risk
+P0998,Residential,10882,235.79,238,9,Good,Contractor_C,Electrical,60.54,50.13,10.409999999999997,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
+P0999,Infrastructure,4937,145.75,101,6,Poor,Contractor_A,Structure,62.25,45.46,16.79,Delayed,Moderate (6-10 days),1,Moderate Delay,High,Medium Risk
+P1000,Commercial,5935,168.15,227,7,Good,Contractor_E,Structure,91.1,76.1,15.0,Delayed,Moderate (6-10 days),0,Moderate Delay,Very High,Low Risk
